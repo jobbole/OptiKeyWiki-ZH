@@ -21,8 +21,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 *   [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
 *   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
-*   [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers)
-*   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method)
+*   [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
+*   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
 *   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech)
 *   [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard)
 *   [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse)
@@ -68,8 +68,14 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 **[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)** （Erucy 翻译）
 
+## 译文提交注意事项
+* 为方便校对，大家提交译文（ PR ）时，格式为一段英文一段中文，和翻译组平常提交译文一样；
+* 译文中涉及该软件的术语 （比如：Speak 按键），翻译时在译文后再保留英文。比如：朗读（Speak）；
+
 ## 如何加入？
-想参与翻译的朋友，请到[伯乐在线翻译组发帖申请加入](http://group.jobbole.com/category/feedback/trans-team/)。为保证翻译质量，必须先通过试译。[2015-09-14 17:08:46 更新：如果您是冲着这个项目申请，发帖时可注明 OptiKey。]
+想参与翻译的朋友，请到[伯乐在线翻译组发帖申请加入](http://group.jobbole.com/category/feedback/trans-team/)。为保证翻译质量，必须先通过试译。
+
+[更新：如果您是冲着这个项目申请，发帖时请额外注明 OptiKey。]
 
 ## License
 和 OptiKey 项目保持一致
