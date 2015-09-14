@@ -60,16 +60,16 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
 *   [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
 
-**[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**
+**[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**（Erucy 翻译）
 
-**[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**
+**[System requirements](https://github.com/JuliusSweetland/OptiKey/wiki/System-requirements)**（Erucy 翻译）
 
-**[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)**
+**[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)** （Erucy 翻译）
 
-**[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)**
+**[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)** （Erucy 翻译）
 
 ## 如何加入？
-想参与翻译的朋友，请到[伯乐在线翻译组发帖申请加入](http://group.jobbole.com/category/feedback/trans-team/)。为保证翻译质量，必须先通过试译。
+想参与翻译的朋友，请到[伯乐在线翻译组发帖申请加入](http://group.jobbole.com/category/feedback/trans-team/)。为保证翻译质量，必须先通过试译。[2015-09-14 17:08:46 更新：如果您是冲着这个项目申请，发帖时可注明 OptiKey。]
 
 ## License
 和 OptiKey 项目保持一致
