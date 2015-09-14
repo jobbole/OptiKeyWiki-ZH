@@ -7,7 +7,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 伯乐在线翻译组将翻译把英文文档翻成中文。目前英文文档有 40 +：
 
-**[Home](https://github.com/JuliusSweetland/OptiKey/wiki)** （董佳佳 翻译）
+**[首页](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/%E9%A6%96%E9%A1%B5.md)** （董佳佳 已完成，黄利民校稿）
 
 **[下载 ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.0.7/OptiKeySetup-2.0.7.exe)**
 
