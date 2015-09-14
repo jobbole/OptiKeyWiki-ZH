@@ -7,20 +7,20 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 伯乐在线翻译组将翻译把英文文档翻成中文。目前英文文档有 40 +：
 
-**[Home](https://github.com/JuliusSweetland/OptiKey/wiki)**
+**[Home](https://github.com/JuliusSweetland/OptiKey/wiki)** （董佳佳 翻译）
 
-**[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.0.7/OptiKeySetup-2.0.7.exe)**
+**[下载 ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.0.7/OptiKeySetup-2.0.7.exe)**
 
-**[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)**
+**[Videos](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)** （董佳佳 翻译）
 
-**[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)**
+**[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)** （董佳佳 翻译）
 
-**[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)**
+**[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)** （董佳佳 翻译）
 
 **User guides:**
 
-*   [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)
-*   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics)
+*   [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
+*   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
 *   [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers)
 *   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method)
 *   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech)
