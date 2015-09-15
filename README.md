@@ -22,8 +22,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
 *   [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
 *   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
-*   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech)
-*   [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard)
+*   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech) Ree Ray  翻译
+*   [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) Ree Ray 翻译
 *   [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse)
 *   [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection)
 *   [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/Suggestions)
