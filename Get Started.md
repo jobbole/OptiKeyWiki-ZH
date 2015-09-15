@@ -26,7 +26,7 @@ OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/Ju
 
 4. Read ['Typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) and follow along to start using OptiKey. Also check out the [video](https://github.com/JuliusSweetland/OptiKey/wiki/Videos) section.
 
-4. 参阅链接["键入第一个单词"](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)，并跟着步骤使用 OptiKey。 也可以观看[视频教程](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)。
+4. 参阅链接["输入第一个单词"](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)，并跟着步骤使用 OptiKey。 也可以观看[视频教程](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)。
 
 5. Unleash the power of OptiKey by reading the rest of the user guides, which are listed on the right of this website.
 
