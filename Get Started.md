@@ -10,7 +10,7 @@ Get Started // 董佳佳 翻译
 
 OptiKey is available for Windows (see the [Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements) page for more).
 
-OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)页面查阅更多信息）
+OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)页面查阅更多信息）。
 
 1. Download OptiKey using the __Download ⇩__ link on the right of this page, in the menu.
 
@@ -52,7 +52,7 @@ OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/Ju
 
 4. Have fun controlling your computer and speaking using only your eyes. If you have time please consider sending me an email to let me know how you are finding OptiKey - your feedback is invaluable. [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
-4. 现在就去体验只需用眼睛就可以控制电脑和发声的乐趣吧。如果您有时间，还请您能给我发一封邮件，告诉我您使用 OptiKey 的体验。- 您的反馈意见十分宝贵。[optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
+4. 现在就去体验只需用眼睛就可以控制电脑和发声的乐趣吧。如果您有时间，还请您能给我发一封邮件，告诉我您使用 OptiKey 的体验 - 您的反馈意见十分宝贵。[optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
 _If you are unsure which computer/laptop/tablet to purchase and are considering spending a lot of money then please email me - I can offer personal advice on how to target the sweet spot between cost and performance (and screen size)._
 
