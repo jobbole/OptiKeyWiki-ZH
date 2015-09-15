@@ -24,11 +24,11 @@ OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/Ju
 
 1. 点击本页右侧菜单的__下载 ⇩__链接下载 OptiKey。
 
-2. 运行文件并按照提示安装 OptiKey。
+2. 运行文件，并按照提示安装 OptiKey。
 
 3. 启动 OptiKey。
 
-4. 参阅链接["键入第一个单词"](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)并跟着步骤使用 OptiKey。 也可以观看[视频教程](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)。
+4. 参阅链接["键入第一个单词"](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)，并跟着步骤使用 OptiKey。 也可以观看[视频教程](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)。
 
 5. 参阅本页用户指南的其他部分内容，深入了解 OptiKey。
 
@@ -57,7 +57,7 @@ OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/Ju
 
 _If you are unsure which computer/laptop/tablet to purchase and are considering spending a lot of money then please email me - I can offer personal advice on how to target the sweet spot between cost and performance (and screen size)._
 
-_如果您不确定买什么样的电脑/笔记本电脑/平板电脑并考虑在这方面花上一笔钱，您可以给我发邮件 - 我可以在价格和性能（包括屏幕尺寸）方面提供一些个人的建议，让您买到心仪的设备。_
+_如果您不确定买什么样的电脑/笔记本电脑/平板电脑，并考虑在这方面花上一笔钱，您可以给我发邮件 - 我可以在价格和性能（包括屏幕尺寸）方面提供一些个人的建议，让您买到心仪的设备。_
 
 > To collaborate, ask a question, request a feature, or get help with an issue that is not addressed here please contact me via email [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), or on twitter @OptiKey_Julius
 
