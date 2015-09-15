@@ -3,10 +3,9 @@
 OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时间，为渐冻人开发。详情请看伯乐在线的文章《[历时三年半，这位程序员在业余时间为渐冻人做了一个开源的眼球跟踪软件](http://blog.jobbole.com/88485/)》。
 
 ## OptiKey Wiki 汉化
-[OptiKey 英文 Wiki](https://github.com/JuliusSweetland/OptiKey/wiki)
+### [OptiKey 英文 Wiki](https://github.com/JuliusSweetland/OptiKey/wiki)
 
-伯乐在线翻译组将翻译把英文文档翻成中文。目前英文文档有 40 +：
-
+#### 伯乐在线翻译组将翻译把英文文档翻成中文。目前英文文档有 40 +：
 **[首页](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/%E9%A6%96%E9%A1%B5.md)** （董佳佳 已完成，黄利民校稿）
 
 **[下载 ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.0.7/OptiKeySetup-2.0.7.exe)**
@@ -17,7 +16,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 **[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)** （董佳佳 翻译）
 
-**User guides:**
+**用户指南：**
 
 *   [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
 *   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
@@ -38,7 +37,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down)
 *   [Shut down](https://github.com/JuliusSweetland/OptiKey/wiki/Shut-down)
 
-**Management console screens:**
+**控制台屏幕管理:**
 
 *   [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings)
 *   [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Sound-settings)
@@ -47,7 +46,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Dictionary-management)
 *   [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Other-settings)
 
-**Troubleshooting:**
+**故障解决方法:**
 
 *   [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning)
 *   [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console)
@@ -67,6 +66,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 **[License](https://github.com/JuliusSweetland/OptiKey/wiki/License)** （Erucy 翻译）
 
 **[Contribute](https://github.com/JuliusSweetland/OptiKey/wiki/Contribute)** （Erucy 翻译）
+####################
 
 ## 译文提交注意事项
 * 为方便校对，大家提交译文（ PR ）时，格式为一段英文一段中文，和翻译组平常提交译文一样；
