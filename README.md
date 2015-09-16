@@ -1,8 +1,10 @@
+>【更新】今天凌晨收到 Julius 的邮件，大意：「感谢我们把 Wiki 翻成中文。不过目前有点旧，他会尽快更新。」等他更新最新版后，我们再继续翻译。 —— 黄利民 2015-09-16 11:45:35
+
 ## OptiKey 是什么？
 
 OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时间，为渐冻人开发。详情请看伯乐在线的文章《[历时三年半，这位程序员在业余时间为渐冻人做了一个开源的眼球跟踪软件](http://blog.jobbole.com/88485/)》。
 
-## OptiKey Wiki 汉化
+## OptiKey Wiki 翻译
 ### [OptiKey 英文 Wiki](https://github.com/JuliusSweetland/OptiKey/wiki)
 
 #### 伯乐在线翻译组将翻译把英文文档翻成中文。目前英文文档有 40 +：
@@ -24,8 +26,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
 *   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech) Ree Ray  翻译
 *   [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) Ree Ray 翻译
-*   [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse)
-*   [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection)
+*   [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse) 至秦 翻译
+*   [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection) 至秦 翻译
 *   [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/Suggestions)
 *   [Auto-capitalisation &amp; auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&amp;-auto-spacing)
 *   [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary)
@@ -75,7 +77,14 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 ## 如何加入？
 想参与翻译的朋友，请到[伯乐在线翻译组发帖申请加入](http://group.jobbole.com/category/feedback/trans-team/)。为保证翻译质量，必须先通过试译。
 
-[更新：如果您是冲着这个项目申请，发帖时请额外注明 OptiKey。]
+**如果您是冲着这个项目申请，发帖时请额外注明 OptiKey。**
+
+## 如何协作？
++ 郭伟（Alick）：校稿、合并 PR；
++ 艾凌风：试译新组员的申请；
++ 黄利民：对外宣传、协调任务等；
++ 其他组员认领。认领方式：从上至下、不跳章节、每人 2 篇；
++ QQ 讨论组中可随时留言
 
 ## License
 和 OptiKey 项目保持一致
