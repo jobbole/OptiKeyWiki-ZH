@@ -48,8 +48,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 **故障解决方法:**
 
-*   [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning)
-*   [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console)
+*   [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning) auroradingdang 翻译
+*   [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) auroradingdang 翻译
 *   [Eye tracker problems](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems)
 *   [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings)
 *   [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary)
