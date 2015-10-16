@@ -30,21 +30,21 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Auto-capitalisation &amp; auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&amp;-auto-spacing)  Sean 翻译
 *   [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary) auroradingdang 翻译
 *   [Size &amp; position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&amp;-position) auroradingdang 翻译
-*   [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) 长如夜 翻译
-*   [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) 长如夜 翻译
-*   [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode)
-*   [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep)
-*   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down)
-*   [Shut down](https://github.com/JuliusSweetland/OptiKey/wiki/Shut-down)
+*   [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) Ree Ray 翻译
+*   [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) Ree Ray 翻译
+*   [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode) 董佳佳 翻译
+*   [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep) 董佳佳 翻译
+*   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down) 陈晓舜 翻译
+*   [Shut down](https://github.com/JuliusSweetland/OptiKey/wiki/Shut-down) 陈晓舜 翻译
 
 **控制台屏幕管理:**
 
-*   [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings)
-*   [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Sound-settings)
-*   [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings)
-*   [Pointing &amp; selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Pointing-&amp;-selecting-settings)
-*   [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Dictionary-management)
-*   [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Other-settings)
+*   [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) 谭霓 翻译
+*   [Sound settings](https://github.com/JuliusSweetland/OptiKey/wiki/Sound-settings) 谭霓 翻译
+*   [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings) 至秦 翻译
+*   [Pointing &amp; selecting settings](https://github.com/JuliusSweetland/OptiKey/wiki/Pointing-&amp;-selecting-settings) 至秦 翻译
+*   [Dictionary management](https://github.com/JuliusSweetland/OptiKey/wiki/Dictionary-management) Sean 翻译
+*   [Other settings](https://github.com/JuliusSweetland/OptiKey/wiki/Other-settings) Sean 翻译
 
 **故障解决方法:**
 
