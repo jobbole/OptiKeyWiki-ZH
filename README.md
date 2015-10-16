@@ -28,10 +28,10 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection) 至秦 翻译
 *   [Suggestions](https://github.com/JuliusSweetland/OptiKey/wiki/Suggestions)  Sean 翻译
 *   [Auto-capitalisation &amp; auto-spacing](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&amp;-auto-spacing)  Sean 翻译
-*   [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary)
-*   [Size &amp; position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&amp;-position)
-*   [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency)
-*   [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme)
+*   [The dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary) auroradingdang 翻译
+*   [Size &amp; position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&amp;-position) auroradingdang 翻译
+*   [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) 长如夜 翻译
+*   [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) 长如夜 翻译
 *   [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode)
 *   [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep)
 *   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down)
