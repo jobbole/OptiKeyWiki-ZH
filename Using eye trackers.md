@@ -10,10 +10,10 @@ OptiKey可以使用鼠标来控制，但是通过眼球跟踪器控制才真正�
 2.完成所有的初始化设置，让跟踪器启动并运行起来。通常这需要让你自己/跟踪器/屏幕处于正确的位置，然后完成校准。有些跟踪器（如Tobii EyeX）会保存用户配置，因此不需要每次都完成校准。
 
 3.Once it's tracking your eyes reliably start OptiKey.<br> 
-3.一旦它开始跟踪，你的眼睛能可靠地启动OptiKey。
+3.一旦它开始跟踪，你的眼睛就能可靠地启动OptiKey。
 
 4.If this is the first time you have used your eye tracker with OptiKey you will need to tell OptiKey which device you want to use. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.<br> 
-4.如果这是你第一次配套使用OptiKey和眼球跟踪器，需要告诉OptiKey哪个是要用的设备。打开OptiKey管理控制台（在OptiKey中按下ALT+M），选择"Pointing & Selecting（指向和选择）"选项卡。
+4.如果这是你第一次配套使用OptiKey和眼球跟踪器，则需要告诉OptiKey哪个是要用的设备。打开OptiKey管理控制台（在OptiKey中按下ALT+M），选择"Pointing & Selecting（指向和选择）"选项卡。
 
 5.Change the "Source" (under "Pointing") to your tracking device.<br> 
 5.修改“Source（来源）”（在“Pointing”下方）为你的跟踪设备。
@@ -25,10 +25,11 @@ OptiKey可以使用鼠标来控制，但是通过眼球跟踪器控制才真正�
 7.点击“OK”保存修改。OptiKey可能需要重启，但是你的修改会被保存。
 
 8.When OptiKey starts up again it will be listening to your eye tracker so try looking around rather than using the mouse cursor to make key selections.<br> 
-8.当OptiKey重新启动，它会听从你的眼球跟踪器指挥，所以试下到处看看，而不是使用鼠标来选择键位。
+8.当OptiKey重新启动，它会听从你的眼球跟踪器指挥，所以试下不用鼠标而是到处看看来选择键位。
 
 N.B. OptiKey will attempt to use your eye tracking device every time you run it from now on (unless you change the Pointing source back to the mouse). The eye tracking device must be connected, the engine (software) must be running and it must be calibrated and ready to be used before OptiKey is started each time.<br> 
-注意：从现在开始，每次你运行OptiKey，它都会尝试使用你的眼球跟踪设备（除非你把指向来源改回成了鼠标）。在OptiKey每次启动前，必须保证眼球跟踪设备已连接，引擎（软件）已在运行中，并且设备已完成校准准备好了被使用。
+注意：从现在开始，每次运行OptiKey，它都会尝试使用你的眼球跟踪设备（除非你把指向来源改回成了鼠标）。在OptiKey每次启动前，必须保证眼球跟踪设备已连接，引擎（软件）已在运行中，并且设备已完成校准准备好了被使用。
 
->To collaborate, ask a question, request a feature, or get help with an issue that is not addressed here please contact me via email optikeyfeedback@gmail.com, or on twitter @OptiKey_Julius <br> 
-想要合作、提问、寻求新功能，或者寻求帮助，请邮件联系我 optikeyfeedback@gmail.com, 或者在 Twitter 上 @OptiKey_Julius。
+
+  If you would like to sponsor this project and help me dedicate more time to OptiKey please visit:     https://www.patreon.com/OptiKey
+  Have a question/problem/request? optikeyfeedback@gmail.com, or @OptiKey_Julius
