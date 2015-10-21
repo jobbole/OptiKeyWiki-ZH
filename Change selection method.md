@@ -22,4 +22,6 @@ You can also combine different methods to, for example, use fixations when selec
   3. 当你修改任何一种方式，都会被提示修改其他相关的设置项。例如，如果你把“按键选择来源（Key selection source）”改为“键盘按键（Keyboard Key）”，接着会提示你修改具体将使用哪个键（对于"鼠标按钮Mouse button"也是一样）。
 
 Try it out - change the "Key selection source" to "Keyboard key" and select which key you want to use to make selections. Click "OK" to save your changes (and restart OptiKey), then direct your attention to a key and press your chosen keyboard key once to make your selection.  
-试试看——修改“按键选择来源（Key selection source）”为“键盘按键（Keyboard Key）”，并选择你希望用来做出选择的键。点击“OK”保存修改（并重启OptiKey），然后聚焦某个键，再按下你刚刚所设置的选中键来完成选择。
+试试看——修改“按键选择来源（Key selection source）”为“键盘按键（Keyboard Key）”，并选择你希望用来做出选择的键。点击“OK”保存修改（并重启OptiKey），然后聚焦某个键，再按下你刚刚所设置的选中键来完成选择。  
+If you would like to sponsor this project and help me dedicate more time to OptiKey please visit: https://www.patreon.com/OptiKey
+Have a question/problem/request? optikeyfeedback@gmail.com, or @OptiKey_Julius
