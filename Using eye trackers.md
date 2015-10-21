@@ -13,13 +13,13 @@ OptiKey可以使用鼠标来控制，但是通过眼球跟踪器控制才真正�
 3.一旦它开始跟踪，你的眼睛就能可靠地启动OptiKey。
 
 4.If this is the first time you have used your eye tracker with OptiKey you will need to tell OptiKey which device you want to use. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.<br> 
-4.如果这是你第一次配套使用OptiKey和眼球跟踪器，则需要告诉OptiKey哪个是要用的设备。打开OptiKey管理控制台（在OptiKey中按下ALT+M），选择"Pointing & Selecting（指向和选择）"选项卡。
+4.如果这是你第一次配套使用OptiKey和眼球跟踪器，则需要告诉OptiKey哪个是要用的设备。打开OptiKey管理控制台（在OptiKey中按下ALT+M），选择"指向和选择（Pointing & Selecting）"选项卡。
 
 5.Change the "Source" (under "Pointing") to your tracking device.<br> 
-5.修改“Source（来源）”（在“Pointing”下方）为你的跟踪设备。
+5.修改“来源（Source）”（在“指向（Pointing）”下方）为你的跟踪设备。
 
 6.Leave the "Key selection source" and "Point selection source" set to "Fixation" for now).<br> 
-6.暂时保留“Key selection source（键选择来源）”和"Point selection source（指向选择来源）"设置为"Fixation（固定）"。
+6.暂时保留“键选择来源（Key selection source）”和"指向选择来源（Point selection source）"设置为"固定（Fixation）"。
 
 7.Click "OK" to save your changes. OptiKey may need to restart, but your changes will be saved.<br> 
 7.点击“OK”保存修改。OptiKey可能需要重启，但是你的修改会被保存。
