@@ -52,13 +52,13 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 *   [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning) auroradingdang 翻译
 *   [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) auroradingdang 翻译
-*   [Eye tracker problems](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems)
-*   [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings)
-*   [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary)
-*   [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors)
-*   [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key)
-*   [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
-*   [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
+*   [Eye tracker problems](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems) 至秦 翻译
+*   [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings) 至秦 翻译
+*   [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary) 至秦 翻译
+*   [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors) 至秦 翻译
+*   [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key) （Erucy 翻译）
+*   [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)（Erucy 翻译）
+*   [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues) （Erucy 翻译）
 
 **[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**（Erucy 翻译）
 
