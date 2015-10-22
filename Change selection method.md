@@ -7,7 +7,7 @@ Selections can also be made using a keyboard key or a mouse button. Use this sel
 也可以使用键盘按键或者鼠标按钮来完成选择。若你想使用无障碍开关和按钮，如利用网络摄像头（如免费的[Switch Viacam](http://sviacam.sourceforge.net/)）模拟键位按压的软件、呼吸操作控制器（“吸和吹”）或者任何能够模拟击键或鼠标点击的设备，那就使用这种固定法（fixation）的选择方式。
 
 *N.B. I have not tested OptiKey with accessibility devices so your mileage may vary, but I would be very happy to hear your feedback and fix any problems that you encounter.*  
-*注意：我没有测试过OptiKey与无障碍设备配合使用，所以你的情况有可能不同，但是我将很高兴得到你的反馈和解决你所遇到的问题。*
+*注意：我没有测试过OptiKey与无障碍设备配合使用，所以你可能会遇到一些状况，但是我将很高兴得到你的反馈和解决你所遇到的问题。*
 
 You can also combine different methods to, for example, use fixations when selecting keys, but a keyboard key when making point (mouse) selections.  
 你还可以结合不同的方式使用，例如，选择键位时使用固定法（fixation），选择点（控制鼠标时）则使用键盘按键。
