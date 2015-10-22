@@ -21,8 +21,10 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
 *   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
 *   [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
+*   [Using webcams](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams) （谭霓 翻译）
 *   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
 *   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech) Ree Ray  翻译
+*   [Voice banking](https://github.com/JuliusSweetland/OptiKey/wiki/Voice-banking) （谭霓 翻译）
 *   [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) Ree Ray 翻译
 *   [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse) 至秦 翻译
 *   [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection) 至秦 翻译
@@ -55,7 +57,6 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary)
 *   [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors)
 *   [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key)
-*   [Mouse simulation issues](https://github.com/JuliusSweetland/OptiKey/wiki/Mouse-simulation-issues)
 *   [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
 *   [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
 
