@@ -10,7 +10,7 @@ Get Started // 董佳佳 翻译
 
 OptiKey is available for Windows (see the [Requirements](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements) page for more).
 
-OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)页面查阅更多信息）。
+OptiKey 支持 Windows 系统（可以在[系统要求](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)页面查阅更多信息）。
 
 1. Download OptiKey using the __Download ⇩__ link on the right of this page, in the menu.
 
@@ -40,7 +40,7 @@ OptiKey 可用于 Windows 系统（可以在[系统要求](https://github.com/Ju
 
 1. You will need a computer/laptop/tablet that meets the minimum requirements of your chosen eye tracker. Very broadly speaking you will need at least an Intel i5 processor, at least one USB 3.0 port (USB 2.0 will not work with most tracking devices, although I think you may be able to use the Tobii REX over USB 2.0) and a screen size large enough to be used comfortably (13-15" minimum) and no more than 24" (although it may be possible to use a larger screen if Windows is limited to only cover 24", e.g. when using Parallels to run Windows on a Mac).
 
-1. 满足您使用眼球跟踪设备的最低要求是您需要一台电脑/笔记本电脑/平板电脑。一般而言，您需要至少 Inter i5 的 CPU，USB 3.0（虽然你可以通过 USB 2.0 使用 Tobii REX，但是大部分眼球跟踪设备都不支持 USB 2.0），一个尺寸足够大的屏幕（最小13-15寸）但不要超过24寸（如果使用更大的屏幕，可以把 Windows 窗口限制为24寸，比如在Mac上运行的 Windows）。
+1. 首先你需要一台满足眼动仪最低配置要求的电脑/笔记本电脑/平板电脑。一般而言，您需要至少 Inter i5 的 CPU，USB 3.0（虽然你可以通过 USB 2.0 使用 Tobii REX，但是大部分眼球跟踪设备都不支持 USB 2.0），一个尺寸足够大的屏幕（最小13-15寸）但不要超过24寸（如果使用更大的屏幕，可以把 Windows 窗口限制为24寸，比如在Mac上使用 Parallels（“Parallels” 是 MAC 上的虚拟机 Parallels Desktop 软件）运行的 Windows）。
 
 2. Purchase one of the low cost eye tracking devices. I would recommend the [Tobii EyeX tracker](http://www.tobii.com/en/eye-experience/buy/) or [Eye Tribe tracker](https://theeyetribe.com/products/), but the full list of supported eye tracking devices can be found [here](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers).
 
@@ -58,6 +58,10 @@ _If you are unsure which computer/laptop/tablet to purchase and are considering 
 
 _如果您不确定买什么样的电脑/笔记本电脑/平板电脑，并考虑在这方面花上一笔钱，您可以给我发邮件 - 我可以在价格和性能（包括屏幕尺寸）方面提供一些个人的建议，让您买到心仪的设备。_
 
-> To collaborate, ask a question, request a feature, or get help with an issue that is not addressed here please contact me via email [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), or on twitter @OptiKey_Julius
+> If you would like to sponsor this project and help me dedicate more time to OptiKey please visit: https://www.patreon.com/OptiKey
 
-> 想要合作、提问、寻求新功能，或者寻求帮助，请邮件联系我 [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), 或者在 Twitter 上 @OptiKey_Julius 。
+> 如果您愿意赞助这个项目并且帮助我把更多的时间投入到 OptiKey 请访问 [https://www.patreon.com/OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
+
+> Have a question/problem/request? optikeyfeedback@gmail.com, or @OptiKey_Julius
+
+> 有问题/难题/请求？请发邮件 [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)，或者 @OptiKey_Julius
