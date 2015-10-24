@@ -14,7 +14,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 **[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)** （董佳佳 翻译）
 
-**[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)** （董佳佳 翻译）
+**[SUPPORT THE PROJECT](https://github.com/JuliusSweetland/OptiKey/wiki/Support-the-project)** （董佳佳 翻译）
 
 **用户指南：**
 
