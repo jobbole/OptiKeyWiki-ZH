@@ -14,15 +14,17 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 **[Get started...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)** （董佳佳 翻译）
 
-**[Why?](https://github.com/JuliusSweetland/OptiKey/wiki/Why%3F)** （董佳佳 翻译）
+**[SUPPORT THE PROJECT](https://github.com/JuliusSweetland/OptiKey/wiki/Support-the-project)** （董佳佳 翻译）
 
 **用户指南：**
 
 *   [Type your first word](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
 *   [Numbers, symbols &amp; diacritics](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
 *   [Using eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
+*   [Using webcams](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams) （谭霓 翻译）
 *   [Change selection method](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
 *   [Speech](https://github.com/JuliusSweetland/OptiKey/wiki/Speech) Ree Ray  翻译
+*   [Voice banking](https://github.com/JuliusSweetland/OptiKey/wiki/Voice-banking) （谭霓 翻译）
 *   [Simulate a keyboard](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) Ree Ray 翻译
 *   [Simulate a mouse](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse) 至秦 翻译
 *   [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection) 至秦 翻译
@@ -32,7 +34,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Size &amp; position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&amp;-position) auroradingdang 翻译
 *   [Transparency](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) Ree Ray 翻译
 *   [Change the theme](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) Ree Ray 翻译
-*   [Speech only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Speech-only-mode) 董佳佳 翻译
+*   [Conversation only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Conversation-only-mode) 董佳佳 翻译
 *   [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep) 董佳佳 翻译
 *   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down) 陈晓舜 翻译
 *   [Shut down](https://github.com/JuliusSweetland/OptiKey/wiki/Shut-down) 陈晓舜 翻译
@@ -50,14 +52,13 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 *   [Smart Screen warning](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning) auroradingdang 翻译
 *   [Cannot open Management Console](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) auroradingdang 翻译
-*   [Eye tracker problems](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems)
-*   [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings)
-*   [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary)
-*   [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors)
-*   [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key)
-*   [Mouse simulation issues](https://github.com/JuliusSweetland/OptiKey/wiki/Mouse-simulation-issues)
-*   [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)
-*   [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues)
+*   [Eye tracker problems](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems) auroradingdang 翻译
+*   [Factory reset all settings](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings) 至秦 翻译
+*   [Factory reset the dictionary](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary) 至秦 翻译
+*   [Multiple monitors](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors) 至秦 翻译
+*   [No menu key, no mouse key](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key) （Erucy 翻译）
+*   [Multi-key selection issues](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection-issues)（Erucy 翻译）
+*   [Other issues](https://github.com/JuliusSweetland/OptiKey/wiki/Other-issues) （Erucy 翻译）
 
 **[Supported eye trackers](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)**（Erucy 翻译）
 
