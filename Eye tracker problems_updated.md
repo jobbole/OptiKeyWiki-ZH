@@ -11,11 +11,11 @@
 </br>
 
 #### 2. Check that the eye tracking device is connected securely to the computer/laptop/tablet.
-#### 2. 检查眼球追踪设备是否和电脑 / 笔记本 / 平板电脑安全连接。
+#### 2. 检查眼球追踪设备是否牢固地和电脑 / 笔记本 / 平板电脑链接。
 </br>
 
 #### 3. Check the eye tracking software's logs, for example if you are using TheEyeTribe tracker then both the server and client applications produce logs. Are there any messages explaining that something has gone wrong (these are usually marked with WARNING or ERROR). Not sure how to find the logs or how to read them then please email me at optikeyfeedback@gmail.com.
-#### 3. 查看眼球追踪软件的日志。比如，如果你正在使用 TheEyeTribe 追踪器，那么服务器和客户应用端都会生成日志。看是否有任何信息解释说某处有异常，通常这些信息用 WARNING （警告） 或者 ERROR （错误） 标记。如果你不确定如何找到或者阅读日志，请发邮件给我 [optikeyfeedback@gmail.com]() 。
+#### 3. 查看眼球追踪软件的日志。比如，如果你正在使用 TheEyeTribe 追踪器，那么服务器和客户应用端都会生成日志。看是否有任何信息解释说某处有异常，通常这些信息用警告 （WARNING） 或者错误 （ERROR ） 标记。如果你不确定如何找到或者阅读日志，请发邮件给我 [optikeyfeedback@gmail.com]() 。
 </br>
 
 #### *Poor eye tracking performance/accuracy.*
@@ -23,12 +23,12 @@
 
 
 #### 1. Check that the eye tracking device is connected securely to the computer/laptop/tablet.
-#### 1. 检查眼球追踪设备是否和电脑 / 笔记本 / 平板电脑安全连接。
+#### 1. 检查眼球追踪设备是否牢固地和电脑 / 笔记本 / 平板电脑连接。
 
 </br>
 
 #### 2. Check the eye tracker setup. The correct positioning is specific to each tracker, so check the tracker's documentation, but commonly the tracker should be in the middle of the screen and directly below it.
-#### 2. 检查眼球追踪器设置。每个追踪器的正确定位是特定的，因此要检查追踪器的文档，但是通常追踪器应该在屏幕中间的下方。
+#### 2. 检查眼球追踪器设置。每个追踪器的正确定位是特定的，因此要查看追踪器的文档，但是通常追踪器应该在屏幕中间的下方。
 </br>
 
 #### 3. Is there too much light coming in through a window or a direct light source? Eye trackers typically use infra-red light, so can be confused if there is a strong source of IR light near you, such as the sun.
@@ -45,7 +45,7 @@
 </br>
 
 #### 6. Only screen sizes up to 24 inches are supported by trackers like GazeTracker and TheEyeTribe, or 27 inches for the Tobii EyeX. Check the limitations.
-#### 6. GazeTracker 和 TheEyeTribe 支持但最大屏幕尺寸是 24 英寸，而 Tobii EyeX 支持的最大屏幕尺寸是 27 英寸。检查这些限制。
+#### 6. GazeTracker 和 TheEyeTribe 支持的最大屏幕尺寸是 24 英寸，而 Tobii EyeX 支持的最大屏幕尺寸是 27 英寸。检查这些限制。
 </br>
 
 #### 7. If available, calibrate for more points (12 rather than 9, for example).
@@ -59,7 +59,7 @@
 </br>
 
 #### 9. An effective head rest can prevent head movement.
-#### 9. 有效的头部静止可以防止头部移动。
+#### 9. 有效的头部靠枕可以防止头部移动。
 
 </br>
 
@@ -70,7 +70,7 @@
 
 #### 11. Try your eye tracker at different refresh rates, for example TheEyeTribe tracker can be set to 30fps or 60fps, which is achieved by starting the EyeTribe server with the "-f=30" or "-f=60" switch, e.g. "C:\Program Files (x86)\EyeTribe\Server\EyeTribe.exe" -f=60
 
-#### 11. 用不同的更新速率试用你的眼球追踪器。比如，TheEyeTribe 追踪器可以通过用 " -f=30 " 或者 " -f=60 " 开关打开 EyeTribe 服务器 （即 "C:\Program Files (x86)\EyeTribe\Server\EyeTribe.exe" -f=60）来设置为 30 fps 或 60 fps。
+#### 11. 尝试调整眼球追踪器使用不同的刷新率。比如，TheEyeTribe 追踪器可以通过用 " -f=30 " 或者 " -f=60 " 开关打开 EyeTribe 服务器 （即 "C:\Program Files (x86)\EyeTribe\Server\EyeTribe.exe" -f=60）来设置为 30 fps 或 60 fps。
 
 </br>
 
