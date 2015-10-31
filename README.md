@@ -9,13 +9,13 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 **[首页(Home)](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/%E9%A6%96%E9%A1%B5.md)** （董佳佳 已完成，黄利民校稿）
 
-**[Download ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.0.7/OptiKeySetup-2.0.7.exe)** （ 翻译）
+**[点击下载(Download) ⇩](https://github.com/JuliusSweetland/OptiKey/releases/download/v2.0.7/OptiKeySetup-2.0.7.exe)**
 
 **[视频(Videos)](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)** （董佳佳 翻译）
 
 **[入门教程(Get started...)](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)** （董佳佳 翻译）
 
-**[SUPPORT THE PROJECT](https://github.com/JuliusSweetland/OptiKey/wiki/Support-the-project)** （董佳佳 翻译）
+**[资助项目(SUPPORT THE PROJECT)](https://github.com/JuliusSweetland/OptiKey/wiki/Support-the-project)** （董佳佳 翻译）
 
 **用户指南：**
 
@@ -36,7 +36,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [透明度(Transparency)](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) Ree Ray 翻译
 *   [修改主题(Change the theme)](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) Ree Ray 翻译
 *   [Conversation only mode](https://github.com/JuliusSweetland/OptiKey/wiki/Conversation-only-mode) 董佳佳 翻译
-*   [Sleep](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep) 董佳佳 翻译
+*   [睡眠模式(Sleep)](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep) 董佳佳 翻译
 *   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down) 陈晓舜 翻译
 *   [Shut down](https://github.com/JuliusSweetland/OptiKey/wiki/Shut-down) 陈晓舜 翻译
 
