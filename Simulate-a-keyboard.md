@@ -1,0 +1,68 @@
+Simulate a keyboard.md // Ree Ray 翻译
+
+OptiKey is always simulating keystrokes (i.e. outputting what you type as if you are using a keyboard) , unless you are in the "Conversation" keyboard. Key-stroke simulation works like this:
+
+OptiKey 总在模拟按键键入（比方说，键入什么就输出什么，和你用物理键盘时一样），除非在“对话（Conversation）”模式下。键盘键入模拟的过程是这样的：
+
+1. Focus another application where you would like to begin typing, e.g. you want to type a letter into Microsoft Word, or an email into Gmail. You can focus the other application by using a physical mouse to select it and bring it to the foreground, or use OptiKey to simulate the mouse selection (see ['Simulate a mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-mouse)).
+
+2.  聚焦（Focus）其他你想开始键入的应用，比如你想键入字母到微软的 Word，又或者在 Gmail 里写封邮件。你也可以用物理鼠标选中其它你聚焦（Focus）的应用，并拖动它到显眼位置，或者用 OptiKey 模拟鼠标选中（详情请参看 ['模拟鼠标'](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/%E6%A8%A1%E6%8B%9F%E9%BC%A0%E6%A0%87.md)）。
+
+3. Select keys in OptiKey to type letters and words as usual. As you make each key selection it will appear in both the scratchpad and your selected application. The BackOne and BackMany keys can be used to correct any mistakes (introduced in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)). 
+
+4. 通常可以选中 OptiKey 中的按键来键入字母和单词。当你选取对应的按键，它会同时出现在提示框（scratchpad）和你选中的应用中。利用回删键（BackOne）和清空键（BackMany）可以修正错误（详情请参看 ['Type your first word'](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/Type%20your%20first%20word.md)）。
+
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Typing_Into_Word.png)
+
+Along the bottom row of the keyboard you will notice a number of "modifier" keys, for example the Shift, Ctrl, Win and Alt keys:
+
+你会注意到键盘的最后一行有些“修饰（modifier）”按键，例如 Shift，Ctrl，Win 和 Alt 这些按键。
+
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Shift_Up.png)![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Ctrl_Up.png)![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Win_Up.png)![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Alt_Up.png)
+
+These work in exactly the same way as they do on a physical keyboard, and can be combined with other keys by holding them down. Try selecting one of them and you'll notice that it cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP. For example, the Shift key progresses like this:
+
+这些按键的效果和物理键盘上的完全一样，同样能和其它按键一起按下构成组合键。试着选取其中某个键，你会注意到在恢复到未选取（UP）状态以前，它会遍历（cycles）三个状态；未选取（UP），选取（DOWN），和锁住（LOCKED DOWN）。例如，Shift  键处理过程如下：
+
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Shift_Up.png)⇨![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Shift_Down.png)⇨![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Shift_Locked_Down.png)⇨![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Shift_Up.png)循环……
+
+This makes it easy to press or lock down a number of keys together. For example, select Ctrl to press it down, and then press the "P" key to send the "Print" command to the active application. The Ctrl key will be automatically released after you select the "P" key, unless it is in the LOCKED DOWN state.
+
+这就使得同时按下或者锁住某些键变得简单。例如说，选取 Ctrl 键按下，接着按下 “P”键来发送“打印（Print）”命令到运行的应用。除非是在锁住（LOCKED DOWN）状态，否则选取“P”键以后 Ctrl 键会自动松开。
+
+It is a good idea to check if any of these "modifier" keys (Shift, Ctrl, Win, Alt) are pressed if you experience unexpected behaviour while typing into another application as they can impact your key selections.
+
+如果你正在其它应用键入时却发生了一些意想不到的效果，检查“修饰（modifier）”键是否按下不失为好想法，因为它们会影响你的按键选取。
+
+N.B. It is useful to clear the scratchpad (by selecting the Clear key) when changing where you are typing (e.g. when starting a new email, or moving to another application):
+
+注意，当改变键入位置时（比如说，当你开始写新邮件，或者切换到其它应用），清理提示框（scratchpad）（通过选取清理（Clear）键）会很管用：
+
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Clear_Up.png)
+
+---
+
+**The physical keyboard**
+
+**物理键盘**
+
+The 'Physical' keyboard contains the "other" keys from a standard keyboard, e.g. the function keys (F1-F12, PG UP, PG DN, INSERT, etc). To access it:
+
+“物理”键盘包含“其它”标准键盘上的按键，例如说，功能按键（function keys）（F1-F12，PG UP，PG DN，INSERT，等等）
+
+1. Select the 'Menu' key:
+
+2. 选取“菜单（Menu）”键：
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Menu_Up.png)
+
+3.  Select the 'Physical' key:
+
+4.  选取“物理（Physical）”键： 
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Keyboard_Menu_Numbered.png)
+
+The 'Physical' keyboards look like this:
+
+“物理”键盘长得像这样：
+
+![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Keyboard_Physical.png)
+
