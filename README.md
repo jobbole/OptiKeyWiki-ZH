@@ -10,7 +10,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 #### 文档同步进展
 
 * Auto-capitalisation-&-auto-spacing, Done，Done
-* Cannot-open-Management-Console, Done, TBT(To Be translate)
+* Cannot-open-Management-Console, Done, Done
 * Change-selection-method
 * Change-the-theme
 * Contribute
@@ -97,7 +97,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [多键选择(Multi-key selection)](https://github.com/JuliusSweetland/OptiKey/wiki/Multi-key-selection) 至秦 翻译
 *   [自动联想(Suggestions)](https://github.com/JuliusSweetland/OptiKey/wiki/Suggestions)  Sean 翻译
 *   [Next word prediction](https://github.com/OptiKey/OptiKey/wiki/Next-word-prediction)
-*   [自动大写和自动插入空格(Auto-capitalisation &amp; auto-spacing)](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&amp;-auto-spacing)  (Sean 翻译/ Alick 校稿)
+*   [自动大写和自动插入空格(Auto-capitalisation &amp; auto-spacing)](https://github.com/JuliusSweetland/OptiKey/wiki/Auto-capitalisation-&amp;-auto-spacing)  (Sean 翻译)
 *   [词典(The dictionary)](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary) auroradingdang 翻译
 *   [尺寸和位置(Size &amp; position)](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&amp;-position) auroradingdang 翻译
 *   [透明度(Transparency)](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) Ree Ray 翻译
@@ -120,7 +120,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 **故障解决方法:**
 
 *   [Smart Screen告警(Smart Screen warning)](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning) auroradingdang 翻译
-*   [无法打开管理控制台(Cannot open Management Console)](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) auroradingdang 翻译
+*   [无法打开管理控制台(Cannot open Management Console)](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) (auroradingdang/Alick 翻译)
 *   [眼球追踪器的问题(Eye tracker problems)](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems) auroradingdang 翻译
 *   [所有设定恢复出厂设置(Factory reset all settings)](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings) 至秦 翻译
 *   [字典恢复出厂设置(Factory reset the dictionary)](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary) 至秦 翻译

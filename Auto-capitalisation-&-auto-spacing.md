@@ -1,4 +1,5 @@
 Auto capitalisation & auto spacing
+自动大写和自动插入空格
 =====
 
 OptiKey can help to increase your typing rate by working out if your next word is the start of a new sentence and automatically pressing the Shift key for you to capitalize the next letter. This works when typing letter by letter, as well as typing whole words using multikey selection.
