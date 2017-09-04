@@ -11,7 +11,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 * Auto-capitalisation-&-auto-spacing, Done，Done
 * Cannot-open-Management-Console, Done, Done
-* Change-selection-method
+* Change-selection-method，Done，Done
 * Change-the-theme
 * Contribute
 * Conversation-only-mode
