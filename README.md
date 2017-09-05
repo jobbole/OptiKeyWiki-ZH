@@ -13,9 +13,9 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * Cannot-open-Management-Console, Done, Done
 * Change-selection-method，Done，Done
 * Change-the-theme，Done, Done
-* Contribute, Done,
-* Conversation-only-mode，Done
-* Dictionary-management
+* Contribute, Done, Done
+* Conversation-only-mode，Done, Done
+* Dictionary-management，Done, Done
 * Eye-tracker-problems
 * Factory-reset-all-settings
 * Factory-reset-the-dictionary
@@ -63,6 +63,12 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * Voice-banking
 * Word-settings
 
+### 待统一译文
+
+#### 菜单表达
+
+#### 述语
+* focussed, ``with OptiKey focussed``，激活/集焦
 
 #### 翻译进展
 
