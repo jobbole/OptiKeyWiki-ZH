@@ -12,7 +12,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * Auto-capitalisation-&-auto-spacing, Done，Done
 * Cannot-open-Management-Console, Done, Done
 * Change-selection-method，Done，Done
-* Change-the-theme
+* Change-the-theme，Done, Done
 * Contribute
 * Conversation-only-mode
 * Dictionary-management
@@ -101,7 +101,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [词典(The dictionary)](https://github.com/JuliusSweetland/OptiKey/wiki/The-dictionary) auroradingdang 翻译
 *   [尺寸和位置(Size &amp; position)](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&amp;-position) auroradingdang 翻译
 *   [透明度(Transparency)](https://github.com/JuliusSweetland/OptiKey/wiki/Transparency) Ree Ray 翻译
-*   [修改主题(Change the theme)](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) Ree Ray 翻译
+*   [修改主题(Change the theme)](https://github.com/JuliusSweetland/OptiKey/wiki/Change-the-theme) (Ree Ray 翻译)
 *   [仅对话模式(Conversation only mode)](https://github.com/JuliusSweetland/OptiKey/wiki/Conversation-only-mode) 董佳佳 翻译
 *   [睡眠模式(Sleep)](https://github.com/JuliusSweetland/OptiKey/wiki/Sleep) 董佳佳 翻译
 *   [Speed up &amp; slow down](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&amp;-slow-down) 陈晓舜 翻译
