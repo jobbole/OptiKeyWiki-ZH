@@ -13,8 +13,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * Cannot-open-Management-Console, Done, Done
 * Change-selection-method，Done，Done
 * Change-the-theme，Done, Done
-* Contribute
-* Conversation-only-mode
+* Contribute, Done,
+* Conversation-only-mode，Done
 * Dictionary-management
 * Eye-tracker-problems
 * Factory-reset-all-settings
@@ -79,7 +79,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 **[SUPPORT EYE TRACKERS](https://github.com/OptiKey/OptiKey/wiki/Supported-eye-trackers)**
 
 **[LANGUAGE SUPPORT](https://github.com/OptiKey/OptiKey/wiki/Supported-languages)**
- 
+
 **[视频(Videos)](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)** （董佳佳 翻译）
 
 
@@ -157,5 +157,3 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 和 OptiKey 项目保持一致
 
 Licensed under the GNU GENERAL PUBLIC LICENSE (Version 3, 29th June 2007)
-
-
