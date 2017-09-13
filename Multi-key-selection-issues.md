@@ -44,6 +44,6 @@ First decide which you think is most likely; if you are given matches which incl
 
 3. 将设置“包含按键的最小停留时间（ms）(Minimum dwell time on a key to include in capture (ms))”修改为更小的值。比如当前的值是 250 毫秒，那么尝试一下 100 毫秒（十分之一秒）甚至更小的值。这个设置控制了在多键选择输入的时候，OptiKey 在确认你关注的字母时，你需要注视一个按键（字母）多长时间。如果你把这个值设置为 100（毫秒），那么在多键输入时，你需要注视每个按键（字母）十分之一秒，OptiKey 就会认为你在“输入”这个字母。
 
-Not sure whether the sensitivity should be decreased or increased? Send me an email at optikeyfeedback@gmail.com with as much detail as possible about what you attempted to capture and what OptiKey suggested. I'll work with you to figure out the problem and suggest how to tweak your settings to improve your experience.
+Not sure whether the sensitivity should be decreased or increased? Send me an email at [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com) with as much detail as possible about what you attempted to capture and what OptiKey suggested. I'll work with you to figure out the problem and suggest how to tweak your settings to improve your experience.
 
 不确定应该降低或者增加敏感度？可以通过 [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com) 给我发送邮件，并尽可能详细地描述你尝试输入的和 OptiKey 建议的内容。我会和你一起找出问题，并建议你如何修改设置来提升你的体验。

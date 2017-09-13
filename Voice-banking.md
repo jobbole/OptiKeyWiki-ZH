@@ -1,22 +1,7 @@
-Speech.md // Ree Ray 翻译
+Voice banking is the recording of one's natural voice for the possible eventuality of losing one's voice. Services exist which will convert these recordings into a synthesised version of your voice which is compatible with Windows SAPI TTS (text-to-speech). Software which is also compatible with Windows SAPI TTS (*such as OptiKey*) can then use your synthesised voice when generating speech. In short, if you bank your voice into a synthesised version you will be able to use it with OptiKey and other speech generating software should it become weak or lost entirely.
 
-1. Make key selections to type some text into the "scratchpad" (the area at the top of the OptiKey keyboard).
+Multiple services exist, but [ModelTalker.org](https://www.modeltalker.org/build-your-voice/) currently offers this service for free. The general process involves obtaining a suitable microphone or headset and recording 10 trial sentences. These are uploaded to ModelTalker who will evaluate the recordings and give you feedback on whether you are ok to continue, or if you need to make adjustments to improve the sound quality. The next stage involves recording 1600 phrases, which you can split into as many sessions as required (if your voice is weak try recording first thing in the morning and stop when you feel tired). Finally your recordings are uploaded and a synthesised version of your voice is created and made available to you. All that's left is to download it, install it and (if you want to use it with OptiKey) select your new voice from the management console (in the "Sounds" tab).
 
-2. 利用按键选取，键入一些文本信息到“提示框（scratchpad）”（ OptiKey 键盘的顶部区域）
+More information on voice banking in general is [available here](http://www.alsforums.com/guides/documents/Voice-Banking-Guidelines.pdf).
 
-3. Select the Speak key (it will turn blue while the speech is being read out):
-
-4. 选取朗读（Speak）键（语音朗读时按键会变蓝）:
-![image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Speak_Up.png) 
-
-5. If you want to stop the in-progress speech at any time select the Speak key again (while it is still blue). This is useful if you accidentally intruct OptiKey to speak before you are ready and the "scratchpad" has a lot of text.
-
-6. 任何时候你想停止进行中的语音，只需要再次选取朗读（Speak）键（此时依然为蓝色）即可。如果“提示框（scratchpad）”塞满文本信息却没准备好，又不小心触发了 OptiKey 的朗读操作时，这就显得非常管用。
-
-7. The voice, rate of speech and volume are all changeable from the Management Console (with OptiKey focussed press ALT + M).  
-
-8.  语音、语速和音量都可以通过管理控制台（Management Console）（在 OptiKey 下只需按 ALT + M 快捷键）控制。
-
-*Which voices you can choose depends on which voices are installed in your copy of Windows. Please google for instructions on how to add new voices as the method varies for each version of Windows. *
-
-*你选择的语音（Voices）决定于你 Windows 系统下安装的语音。请自行查询（Google）如何在 Windows 下添加新语音的说明，每个版本都有不同的方法。*
+*N.B. I am not affiliated with the ModelTalker service and cannot offer any support for the voice banking process. I have included this information only because I have some first hand experience with this process and the results and (although voice banking may not work for everyone) I think this is an excellent service.*

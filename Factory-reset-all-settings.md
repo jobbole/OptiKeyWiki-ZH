@@ -1,4 +1,4 @@
-If you would like to return OptiKey to the state it is in when you first install it (all settings back to their original factory values), delete all of the directories that start with "OptiKey.exe_" in your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland). For me (with a username of Julius) the steps would be;
+If you would like to return OptiKey to the state it is in when you first install it (all settings back to their original factory values), delete all of the **directories** that start with **"OptiKey.exe_"** in your roaming app data directory (C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland). For me (with a username of Julius) the steps would be;
 
 如果你想将 OptiKey 恢复到安装它的初始状态（所有设定都恢复成原始的出厂值），并在 Roaming 应用程序数据的目录（C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland）中，删除所有以"OptiKey.exe_"开头的目录。以我（用户名是 Julius）为例，操作步骤如下：
 

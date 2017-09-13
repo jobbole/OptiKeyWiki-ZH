@@ -6,19 +6,21 @@ OptiKey 可以用来模拟鼠标输入，意味着你可以像使用一个物理
 
 1. 选择”菜单“（“Menu”）按键：
 
-![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Menu_Up.png)
+    ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
 2. Select the 'Mouse' key:
 
 2. 选择”鼠标“（“Mouse”）按键：
 
-![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Keyboard_Menu_Numbered.png)
+    ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The mouse keyboard looks like this:
 
 鼠标键盘看上去像这样：
 
-![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Keyboard_Mouse_Numbered.png)
+![Mouse keyboard](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Mouse_Numbered.png)
+
+---
 
 The mouse keyboard appears in two forms; either collapsed as a single bar containing the most common mouse actions (left click, left double click, scroll down, scroll up, etc), or expanded showing all possible mouse actions. The expanded view is split into two categories:
 
@@ -60,7 +62,14 @@ To increase your precision when making mouse selections you can switch on magnif
 
 为了增加鼠标选择的准确性，你可以按下或者锁定放大按键（“Magnifier”）来打开放大功能。你会注意到放大键在三个状态切换：放大、缩小和锁定，在放大返回前，放大功能可以关闭，只为下一次鼠标操作打开，或者是持续打开。你选择这个按键的过程就像下面这样：
 
-![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Magnifier_Up.png)⇨![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Magnifier_Down.png)⇨![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Magnifier_Locked_Down.png) ⇨ ![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Key_Magnifier_Up.png)
+![Magnifier key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Up.png)
+ ⇨ 
+![Magnifier key locked down](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Down.png)
+ ⇨ 
+![Magnifier key locked down](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Locked_Down.png)
+ ⇨ 
+![Magnifier key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Up.png)
+etc
 
 Selecting a point becomes a two step process when using the magnifier:
 

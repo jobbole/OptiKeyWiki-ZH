@@ -1,8 +1,8 @@
-With OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet) to open the Management Console, then select the 'Words' tab at the top. The Management Console must be accessed using a physical mouse and keyboard.
+To open the Management Console either right click on OptiKey itself (not the icon in the taskbar) and select to open the management console from the context menu that opens, or with OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet), then select the 'Words' tab at the top. You can interact with the Management Console using either OptiKey's mouse and keyboard emulation, or a physical mouse and keyboard.
 
 按下键盘（物理的，或者平板屏幕上的）的“ALT”和“M”键，可以打开 Optikey 的管理控制台（Management Console），然后选择顶部的“Words”页面。这个管理控制台（Management Console）必须用一个物理的鼠标和键盘访问。
 
-![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Management_Console_Words_Numbered.png)
+![Management Console Words tab](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Words_Numbered.png)
 
 1. Language: The dictionary used when auto-completing words and generating multi-key selection matches.
 1. 语言：自动补齐单词和生成多键选择匹配的字典。

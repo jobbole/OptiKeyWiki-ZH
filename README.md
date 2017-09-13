@@ -7,15 +7,15 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 基于 ``2017年9月1日 GMT+8 下午3:57:35 `` 更新的 ``[296db90]`` 版本
 
-#### 文档同步进展
+#### 文档校稿进展
 
-* Auto-capitalisation-&-auto-spacing, Done，Done
-* Cannot-open-Management-Console, Done, Done
-* Change-selection-method，Done，Done
-* Change-the-theme，Done, Done
-* Contribute, Done, Done
-* Conversation-only-mode，Done, Done
-* Dictionary-management，Done, Done
+* Auto-capitalisation-&-auto-spacing, Done
+* Cannot-open-Management-Console, Done
+* Change-selection-method，Done
+* Change-the-theme，DDone
+* Contribute, Done
+* Conversation-only-mode，Done
+* Dictionary-management，Done
 * Eye-tracker-problems
 * Factory-reset-all-settings
 * Factory-reset-the-dictionary
@@ -69,6 +69,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 #### 述语
 * focussed, ``with OptiKey focussed``，激活/集焦
+* Eye tracker, 眼动仪
+* Eys tracking，眼动追踪
 
 #### 翻译进展
 

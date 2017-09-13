@@ -1,10 +1,12 @@
 Type your first word // 陈晓舜 翻译
 输入你的第一个单词 //陈晓舜 翻译
-Run OptiKey for the first time and it will be displayed with a dark theme, position itself at the top of your screen (docked), and ensure that any other running applications are positioned in the remaining free space. By default it uses your mouse cursor position for input and selecting a key is performed by hovering over a key for about 1.5 seconds.
-![](Type your first word/1.png)
 
+
+Run OptiKey for the first time and it will be displayed with a dark theme, position itself at the top of your screen (docked), and ensure that any other running applications are positioned in the remaining free space. By default it uses your mouse cursor position for input and selecting a key is performed by hovering over a key for about 1.5 seconds.
 首次运行 OptiKey 时，它以黑色的主题固定显示在屏幕的顶端，并确保其他正在运行的程序显示在空闲区域而不被其遮挡。默认情况下它使用光标所在位置用于输入，移动到一个键位上1.5秒可以选中那个键。
-![](Type your first word/1.png)
+
+![Alpha keyboard typing welcome sentence](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Alpha_Typing_Welcome_Sentence.png)
+
 
 Try it out - move your mouse cursor over OptiKey and notice how the current key under your cursor is highlighted with a red outline. Keep the mouse cursor over a single key and you'll see an indication of your selection progress on the current key. This is a method of selection called "fixation" or "dwell" and requires you to keep your attention (the cursor) on each key for an amount of time in order to select the key.
 
@@ -15,16 +17,17 @@ Complete a selection over a letter and it will be pressed and appear in the "scr
 完成一个字母的选择后，它会被按下并显示在顶部的"提示框（scratchpad）"上。在上方的提示框里可以看到单词的自动补全建议，此时可以继续输入字母或从提示框中选取单词。
 
 If you make a mistake you can use the backspace key to delete your last selection:
-![](Type your first word/2.png)
-
 输入错误时，可以使用退格键（backspace）删除最后一个选择字母：
-![](Type your first word/2.png)
+
+![BackOne key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_BackOne_Up.png)
+
+
+
 
 or the BackMany key to delete the last whole word:
-![](Type your first word/3.png)
-
 或者使用BackMany键删除最后输入的整个单词
-![](Type your first word/3.png)
+
+![BackMany key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_BackMany_Up.png) 
 
 That's all there is to start selecting keys and typing words!
 以上就是使用 OptiKey 进行选择与输入的所有操作了!

@@ -16,19 +16,19 @@ If something else isn't working as you'd expect, you encounter a crash, a freeze
 
 **C:\Users\你的用户名\AppData\Roaming\JuliusSweetland\Logs**
 
-Grab the latest log file (the modified date on the file will be the most recent) and attach it to an email to optikeyfeedback@gmail.com, but don't send it just yet! I also need...
+Grab the latest log file (the modified date on the file will be the most recent) and attach it to an email to [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com), but don't send it just yet! I also need...
 
 拿到最新的日志文件（文件的修改日期应该是最近的）然后把它作为附件发送到 [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)，不过别急着发送！我还需要……
 
-1. A short description of what you were doing when the problem occurred.
+2. A short description of what you were doing when the problem occurred.
 
 1. 简短地描述在问题发生时你正在做什么。
 
-2. What is the problem? A crash? OptiKey did one thing and you were expecting something else?
+3. What is the problem? A crash? OptiKey did one thing and you were expecting something else? 
 
 2. 出了什么问题？程序崩溃？OptiKey 做了什么你预想之外的事情？
 
-3. Anything else that you think is useful. Screenshots are amazing.
+4. Anything else that you think is useful. Screenshots are amazing.
 
 3. 其他任何你觉得有用的东西。有截屏最棒了。
 

@@ -4,7 +4,7 @@ Get Started // 董佳佳 翻译
 
 # 入门教程
 
-### First steps...
+**First steps...**
 
 ### 第一步...
 
@@ -12,7 +12,7 @@ OptiKey is available for Windows (see the [Requirements](https://github.com/Juli
 
 OptiKey 支持 Windows 系统（可以在[系统要求](https://github.com/JuliusSweetland/OptiKey/wiki/Requirements)页面查阅更多信息）。
 
-1. Download OptiKey using the __Download ⇩__ link on the right of this page, in the menu.
+1. Download OptiKey using the **Download ⇩** link on the right of this page, in the menu.
 
 1. 点击本页右侧菜单的__下载 ⇩__链接下载 OptiKey。
 
@@ -24,7 +24,7 @@ OptiKey 支持 Windows 系统（可以在[系统要求](https://github.com/Juliu
 
 3. 启动 OptiKey。
 
-4. Read ['Typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) and follow along to start using OptiKey. Also check out the [video](https://github.com/JuliusSweetland/OptiKey/wiki/Videos) section.
+4. Read ['Typing your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) and follow along to start using OptiKey. Also check out the [video section](https://github.com/JuliusSweetland/OptiKey/wiki/Videos).
 
 4. 参阅链接[“输入第一个单词”](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word)，并跟着步骤使用 OptiKey。 也可以观看[视频教程](https://github.com/JuliusSweetland/OptiKey/wiki/Videos)。
 
@@ -54,14 +54,7 @@ OptiKey 支持 Windows 系统（可以在[系统要求](https://github.com/Juliu
 
 4. 现在就去体验只需用眼睛就可以控制电脑和发声的乐趣吧。如果您有时间，还请您能给我发一封邮件，告诉我您使用 OptiKey 的体验 - 您的反馈意见十分宝贵。[optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 
-_If you are unsure which computer/laptop/tablet to purchase and are considering spending a lot of money then please email me - I can offer personal advice on how to target the sweet spot between cost and performance (and screen size)._
+*If you are unsure which computer/laptop/tablet to purchase and are considering spending a lot of money then please email me - I can offer personal advice on how to target the sweet spot between cost and performance (and screen size).*
 
 _如果您不确定买什么样的电脑/笔记本电脑/平板电脑，并考虑在这方面花上一笔钱，您可以给我发邮件 - 我可以在价格和性能（包括屏幕尺寸）方面提供一些个人的建议，让您买到心仪的设备。_
 
-> If you would like to sponsor this project and help me dedicate more time to OptiKey please visit: https://www.patreon.com/OptiKey
-
-> 如果您愿意赞助这个项目并且帮助我把更多的时间投入到 OptiKey 请访问 [https://www.patreon.com/OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
-
-> Have a question/problem/request? optikeyfeedback@gmail.com, or @OptiKey_Julius
-
-> 有问题/难题/请求？请发邮件 [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)，或者 @OptiKey_Julius
