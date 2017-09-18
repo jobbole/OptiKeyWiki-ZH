@@ -11,7 +11,7 @@ Videos // 董佳佳
 * [MIT project using OptiKey](https://vimeo.com/148316508)
 
 * [OptiKey demo using the EyeTech TM5 mini eye tracker](https://www.youtube.com/watch?v=1M7FVBuMcec) *- this tracker is not natively supported, but can be used via mouse control.*
-* [使用迷你眼动仪 EyeTech TM5 控制 OptiKey](https://www.youtube.com/watch?v=1M7FVBuMcec) - 暂时不支持这种追踪器，但是该视频演示了如何使用这种追踪器控制光标的位置，进而控制 OptiKey。
+* [使用迷你眼动仪 EyeTech TM5 控制 OptiKey](https://www.youtube.com/watch?v=1M7FVBuMcec) - 暂时不支持这种眼动仪，但是该视频演示了如何使用这种眼动仪控制光标的位置，进而控制 OptiKey。
 * [Full tour video](http://youtu.be/zMod7oExCbY) *- N.B. This is a tour of an old version of OptiKey*
 * [完整视频教程](http://youtu.be/zMod7oExCbY) - 注：这是一个老版本的 OptiKey 教程！ 
 
