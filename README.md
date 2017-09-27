@@ -9,6 +9,8 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 #### 文档校稿进展
 
+进度: 10/51
+
 * Auto-capitalisation-&-auto-spacing, Done
 * Cannot-open-Management-Console, Done
 * Change-selection-method，Done
@@ -17,9 +19,9 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * Conversation-only-mode，Done
 * Dictionary-management，Done
 * Eye-tracker-problems，Done
-* Factory-reset-all-settings
-* Factory-reset-the-dictionary
-* Free-TTS-Voices
+* Factory-reset-all-settings, Done
+* Factory-reset-the-dictionary，Done
+* Free-TTS-Voices，Done
 * Get-started
 * Home
 * Issues-arranging-windows
@@ -52,7 +54,6 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * System-requirements
 * The-dictionary
 * Transparency
-* Type your first word
 * Type-your-first-word
 * Using-eye-trackers
 * Using-mouse-emulation
@@ -130,7 +131,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [Smart Screen告警(Smart Screen warning)](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning) auroradingdang 翻译
 *   [无法打开管理控制台(Cannot open Management Console)](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) (auroradingdang/Alick 翻译)
 *   [眼动仪的问题(Eye tracker problems)](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems) auroradingdang 翻译
-*   [所有设定恢复出厂设置(Factory reset all settings)](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings) 至秦 翻译
+*   [恢复缺省配置(Factory reset all settings)](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-all-settings) 至秦 翻译
 *   [字典恢复出厂设置(Factory reset the dictionary)](https://github.com/JuliusSweetland/OptiKey/wiki/Factory-reset-the-dictionary) 至秦 翻译
 *   [多个显示器(Multiple monitors)](https://github.com/JuliusSweetland/OptiKey/wiki/Multiple-monitors) 至秦 翻译
 *   [没有菜单键或鼠标键(No menu key, no mouse key)](https://github.com/JuliusSweetland/OptiKey/wiki/No-Menu-key,-no-mouse-key) （Erucy 翻译）
