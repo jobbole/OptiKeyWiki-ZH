@@ -9,7 +9,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 #### 文档校稿进展
 
-进度: 16/51
+进度: 20/51
 
 * Auto-capitalisation-&-auto-spacing, Done
 * Cannot-open-Management-Console, Done
@@ -28,9 +28,9 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * License，Done
 * Multi-key-selection-issues，Done
 * Multi-key-selection，Done
-* Multiple-monitors
-* Next-word-prediction
-* No-Menu-key,-no-mouse-key
+* Multiple-monitors，Done
+* Next-word-prediction，Done
+* No-Menu-key,-no-mouse-key，Done
 * Numbers, symbols & diacritics
 * Numbers,-symbols-and-diacritics
 * OS-language-has-been-changed
@@ -95,7 +95,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 **用户指南：**
 
 *   [输入第一个单词(Type your first word)](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
-*   [数字,符号和变音符(Numbers, symbols &amp; diacritics)](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
+*   [数字,符号和读音符(Numbers, symbols &amp; diacritics)](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
 *   [使用眼球跟踪器(Using eye trackers)](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
 *   [使用网络摄像头(Using webcams)](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams) （谭霓 翻译）
 *   [修改选择方式(Change selection method)](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
