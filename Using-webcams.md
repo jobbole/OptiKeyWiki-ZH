@@ -2,7 +2,7 @@ Using webcams
 使用网络摄像头    //谭霓  翻译
 
 OptiKey can be controlled with a mouse, or an eye tracker (the preferred method), but it is also possible to use a standard webcam. There are a number of free applications which can use your webcam to track your head movements and translate those into movements of your mouse cursor on screen. As OptiKey can be controlled using the cursor position this means you can control OptiKey using head movements captured via your webcam. This method is a very different experience from using an eye tracking device, but can be very effective.
-OptiKey可以用鼠标或者眼球跟踪器（推荐）来控制，但是使用标准的网络摄像头也同样可以。已经有非常多免费应用支持使用网络摄像头跟踪头部运动，并将这些运动转换成屏幕上光标的移动。既然可以通过光标位置控制OptiKey，这就意味着你可以利用网络摄像头捕捉头部运动来控制OptiKey。该方法与使用眼球跟踪设备的体验非常不同，不过效率很高。
+OptiKey可以用鼠标或者眼球跟踪器（推荐）来控制，但是使用标准的网络摄像头也同样可以。已经有非常多免费应用支持使用网络摄像头跟踪头部运动，并将这些运动转换成屏幕上光标的移动。既然可以通过光标位置控制OptiKey，这就意味着你可以利用网络摄像头捕捉头部运动来控制OptiKey。该方法与使用眼动仪的体验非常不同，不过效率很高。
 
 These applications should all work with OptiKey:
 以下这些应用都应支持OptiKey：

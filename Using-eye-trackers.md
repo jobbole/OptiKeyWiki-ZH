@@ -3,7 +3,7 @@
 
 OptiKey can be controlled with a mouse, but really comes into its own when controlled with an eye tracker. [The list of supported eye tracking devices is available here](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers).
 
-OptiKey可以使用鼠标来控制，但是通过眼球跟踪器控制才真正体现出它的强大价值。[这里是所支持的眼球跟踪设备清单](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)。
+OptiKey可以使用鼠标来控制，但是通过眼球跟踪器控制才真正体现出它的强大价值。[这里是所支持的眼动仪清单](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)。
 
 ![TheEyeTribe device setup](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/theeyetribe-physical-setup.png)
 
@@ -33,4 +33,4 @@ OptiKey可以使用鼠标来控制，但是通过眼球跟踪器控制才真正�
 8. 当OptiKey重新启动，它会听从你的眼球跟踪器指挥，所以试下不用鼠标而是到处看看来选择键位。
 
 **N.B.** OptiKey will attempt to use your eye tracking device every time you run it from now on (unless you change the Pointing source back to the mouse). The eye tracking device must be connected, the engine (software) must be running and it must be calibrated and ready to be used **before** OptiKey is started each time.
-** 注意 **：从现在开始，每次运行OptiKey，它都会尝试使用你的眼球跟踪设备（除非你把指向来源改回成了鼠标）。在OptiKey每次启动前，必须保证眼球跟踪设备已连接，引擎（软件）已在运行中，并且设备已完成校准准备好了被使用。
+** 注意 **：从现在开始，每次运行OptiKey，它都会尝试使用你的眼动仪（除非你把指向来源改回成了鼠标）。在OptiKey每次启动前，必须保证眼动仪已连接，引擎（软件）已在运行中，并且设备已完成校准准备好了被使用。

@@ -9,7 +9,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 #### 文档校稿进展
 
-进度: 10/51
+进度: 16/51
 
 * Auto-capitalisation-&-auto-spacing, Done
 * Cannot-open-Management-Console, Done
@@ -22,12 +22,12 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * Factory-reset-all-settings, Done
 * Factory-reset-the-dictionary，Done
 * Free-TTS-Voices，Done
-* Get-started
-* Home
-* Issues-arranging-windows
-* License
-* Multi-key-selection-issues
-* Multi-key-selection
+* Get-started, Done
+* Home，Done
+* Issues-arranging-windows, Done
+* License，Done
+* Multi-key-selection-issues，Done
+* Multi-key-selection，Done
 * Multiple-monitors
 * Next-word-prediction
 * No-Menu-key,-no-mouse-key

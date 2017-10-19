@@ -10,4 +10,4 @@ Your device should be relatively modern/capable, but high end computer specs are
 
 If you are using an eye tracking device your pc/laptop/tablet will need to meet the minimum requirements of your eye tracker's software. These are typically more than enough for OptiKey to run flawlessly.
 
-如果你在使用眼球跟踪设备，你的台式机/笔记本/平板电脑需要满足你的眼球跟踪软件的最小配置需求，而这个配置通常足以能够完美地运行 OptiKey 了。
+如果你在使用眼动仪，你的台式机/笔记本/平板电脑需要满足你的眼球跟踪软件的最小配置需求，而这个配置通常足以能够完美地运行 OptiKey 了。
