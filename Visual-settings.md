@@ -56,7 +56,7 @@ To open the Management Console either right click on OptiKey itself (not the ico
 14. 字体粗细：整个OptiKey的字体粗细。例如细（Light）、正常（Normal）、加粗（Bold）等。有效值取决于所选的字体族。该设置对管理控制后台无效。
 
 15. Key text transformation: When a key is "current" (in other words a key has focus) some keys replace their symbol/image with text to explain the function of the key (e.g. the 'SPEAK' key). This setting allows you to change the casing of the text.
-15. 键文本替换：当一个键是“当前的”（换句话说该键被聚焦），会有一些键用解释该键功能的文本来代替其原先的象征/图片（如‘朗读（SPEAK）’）。该设置允许你修改这些文本内容的样子（译者注：可以设置文本为大写、小写或首字母大写）。
+15. 键文本替换：当一个键是“当前的”（换句话说该键被注视），会有一些键用解释该键功能的文本来代替其原先的象征/图片（如‘朗读（SPEAK）’）。该设置允许你修改这些文本内容的样子（译者注：可以设置文本为大写、小写或首字母大写）。
 
 <a name="visuals-notifications">**Notifications**</a>
 **通知**

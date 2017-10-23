@@ -32,6 +32,6 @@ You can also combine different methods to, for example, use fixations when selec
 
 Try it out - change the "Key selection source" to "Keyboard key" and select which key you want to use to make selections. Click "OK" to save your changes (and restart OptiKey), then direct your attention to a key and press your chosen keyboard key once to make your selection. 
  
-尝试一下：修改 “按键选择来源（Key selection source）” 为 “键盘按键（Keyboard Key）”，并选择你希望用于选择的按键。点击 “OK” 保存修改（并重启OptiKey），然后聚焦某个键，再按下你刚刚所设置的选中键来完成选择。  
+尝试一下：修改 “按键选择来源（Key selection source）” 为 “键盘按键（Keyboard Key）”，并选择你希望用于选择的按键。点击 “OK” 保存修改（并重启OptiKey），然后注视某个键，再按下你刚刚所设置的选中键来完成选择。  
 
 

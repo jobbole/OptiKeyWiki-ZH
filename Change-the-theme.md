@@ -5,7 +5,7 @@ Change the theme
 
 1. Open the Management Console (with OptiKey focussed press ALT + M).
 
-1. 打开管理控制台（Management Console）（在 OptiKey 中需要聚焦（focussed）按下 ALT + M）。
+1. 打开管理控制台（Management Console）（在 OptiKey 中需要注视（focussed）按下 ALT + M）。
 
 2. Select the 'Visuals' tab at the top.
 

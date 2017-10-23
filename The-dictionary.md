@@ -13,7 +13,7 @@ The default dictionary contains many common words and phrases, but you will prob
 
 1. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Dictionary" tab.
 
-1. 打开 OptiKey 的管理控制台 （聚焦 OptiKey 按 ALT + M），选择标签 “ 词典 （Dictionary） ” 。
+1. 打开 OptiKey 的管理控制台 （注视 OptiKey 按 ALT + M），选择标签 “ 词典 （Dictionary） ” 。
 
 ![Editing the dictionary from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Dictionary_Numbered.png)
 
@@ -111,7 +111,7 @@ To change the dictionary language used by OptiKey:
 
 1. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Words" tab.
 
-1. 打开 OptiKey 的管理操作台 （聚焦 OptiKey 按 ALT + M），选择标签 “ 单词 （Words） ”.
+1. 打开 OptiKey 的管理操作台 （注视 OptiKey 按 ALT + M），选择标签 “ 单词 （Words） ”.
 
     ![Change the dictionary language from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Words_Numbered.png)
 
