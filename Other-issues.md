@@ -1,4 +1,6 @@
-Other issues.md // Erucy 翻译
+Other issues
+其他问题
+======
 
 *Crash? Unexpected behaviour? Something else wrong?*
 
@@ -10,7 +12,7 @@ If something else isn't working as you'd expect, you encounter a crash, a freeze
 
 1. Logs. Developers love logs. You'll need to turn on 'Debugging mode' first (in the 'Other'tab of the Management Console, which is accessed by pressing ALT + M with OptiKey focussed). Turn that setting on then do whatever you did before to cause the unexpected problem, crash, or whatever it was, then close OptiKey. The logs are stored in a special directory which is personal to you. On Windows this will be (open File Explorer and find this directory);
 
-1. 日志。开发人员喜欢日志。首先你需要开启“调试模式（Debugging mode）”（在激活 OptiKey 的情况下按下 ALT + M 打开管理控制台，它在“其他（Other）”标签页中）。打开这个设置，然后重复你之前遇到意外、程序崩溃或者其他什么问题时的所有操作，然后关闭 OptiKey。日志文件保存在一个你个人的特殊目录中。在 Windows 系统中该目录位于（打开文件资源管理器并找到这个目录）：
+1. 日志。开发人员需要日志。首先你需要开启“调试模式（Debugging mode）”（在激活 OptiKey 的情况下按下 ALT + M 打开管理控制台，它在“其他（Other）”标签页中）。打开这个设置，然后重复你之前遇到意外、程序崩溃或者其他什么问题时的所有操作，然后关闭 OptiKey。日志文件保存在一个你个人的特殊目录中。在 Windows 系统中该目录位于（打开文件资源管理器并找到这个目录）：
 
 **C:\Users\YOUR_USER_NAME\AppData\Roaming\JuliusSweetland\Logs**
 
@@ -24,7 +26,7 @@ Grab the latest log file (the modified date on the file will be the most recent)
 
 1. 简短地描述在问题发生时你正在做什么。
 
-3. What is the problem? A crash? OptiKey did one thing and you were expecting something else? 
+3. What is the problem? A crash? OptiKey did one thing and you were expecting something else?
 
 2. 出了什么问题？程序崩溃？OptiKey 做了什么你预想之外的事情？
 
