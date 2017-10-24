@@ -18,7 +18,7 @@ If you would like to return OptiKey to the state it is in when you first install
 3. 你将会在那里看到名为“OptiKey”的目录，里面包含了日志文件和自定义的字典。
 
 4. Delete the other directories. For me that means deleting "OptiKey.exe_Url_2dm1ifc0wqzcnmfgnsyhbssrcdx5zgbz", but your folder names will vary.
-4. 删除其它的目录。在我的电脑中，就是删除"OptiKey.exe_Url_2dm1ifc0wqzcnmfgnsyhbssrcdx5zgbz"，你的文件夹名字可能会有所不同。
+4. 删除其他的目录。在我的电脑中，就是删除"OptiKey.exe_Url_2dm1ifc0wqzcnmfgnsyhbssrcdx5zgbz"，你的文件夹名字可能会有所不同。
 
 5. Start OptiKey again.
 5. 重新启动 OptiKey。
