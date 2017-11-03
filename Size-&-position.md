@@ -1,9 +1,8 @@
-# Size & position
-
-# 尺寸和位置
+Size & position
+尺寸和位置
+======
 
 *** Size ***
-
 *** 尺寸 ***
 
 1. Select the 'Menu' key:
@@ -15,7 +14,7 @@
 
 2. Select the 'Size & Position' key:
 
-2. 选择 “ 尺寸和位置 （Size & Position） ” 键：
+2. 选择 “尺寸和位置 （Size & Position）” 键：
     ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 
@@ -42,4 +41,3 @@ The size & position keyboard looks like this:
 
 #34: Return to previous (Menu) keyboard
 #34: 退回到之前的键盘，即菜单 （Menu） 键盘
-
