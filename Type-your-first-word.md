@@ -27,7 +27,7 @@ If you make a mistake you can use the backspace key to delete your last selectio
 or the BackMany key to delete the last whole word:
 或者使用BackMany键删除最后输入的整个单词
 
-![BackMany key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_BackMany_Up.png) 
+![BackMany key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_BackMany_Up.png)
 
 That's all there is to start selecting keys and typing words!
 以上就是使用 OptiKey 进行选择与输入的所有操作了!

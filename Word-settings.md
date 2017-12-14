@@ -1,3 +1,7 @@
+Word Settings
+单词设置
+======
+
 To open the Management Console either right click on OptiKey itself (not the icon in the taskbar) and select to open the management console from the context menu that opens, or with OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet), then select the 'Words' tab at the top. You can interact with the Management Console using either OptiKey's mouse and keyboard emulation, or a physical mouse and keyboard.
 
 按下键盘（物理的，或者平板屏幕上的）的“ALT”和“M”键，可以打开 Optikey 的管理控制台（Management Console），然后选择顶部的“Words”页面。这个管理控制台（Management Console）必须用一个物理的鼠标和键盘访问。

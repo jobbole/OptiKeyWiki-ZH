@@ -1,4 +1,6 @@
-Suggestions // Sean 翻译
+Suggestions
+建议
+======
 
 After typing each letter in a word or completing a multi-key selection (see [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more), OptiKey will suggest words above the scratchpad. You can scroll through the suggestions using the Previous Suggestions and Next Suggestions keys:
 
