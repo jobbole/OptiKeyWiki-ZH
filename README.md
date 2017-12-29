@@ -5,11 +5,11 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 ## OptiKey Wiki 翻译
 ### [OptiKey 英文 Wiki](https://github.com/JuliusSweetland/OptiKey/wiki)
 
-基于 ``2017年9月1日 GMT+8 下午3:57:35 `` 更新的 ``[296db90]`` 版本
+基于 ``2017年9月1日 GMT+8 下午3:57:35`` 更新的 ``[296db90]`` 版本
 
 #### 文档校稿进展
 
-进度: 36/51
+进度: 45/51
 
 * Auto-capitalisation-&-auto-spacing, Done
 * Cannot-open-Management-Console, Done
@@ -54,24 +54,15 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 * System-requirements, Done
 * The-dictionary, Done
 * Transparency, Done
-* Type-your-first-word
-* Using-eye-trackers
-* Using-mouse-emulation
-* Using-the-Tobii-PCEye-Go-tracker
-* Using-webcams
-* Videos
-* Visual-settings
+* Type-your-first-word, Done
+* Using-eye-trackers, Done
+* Using-mouse-emulation, Done
+* Using-the-Tobii-PCEye-Go-tracker, Done
+* Using-webcams,
+* Videos,
+* Visual-settings,
 * Voice-banking
 * Word-settings
-
-### 待统一译文
-
-#### 菜单表达
-
-#### 述语
-* focussed, ``with OptiKey focussed``，激活 OptiKey
-* Eye tracker, 眼动仪
-* Eys tracking，眼动追踪
 
 #### 翻译进展
 
