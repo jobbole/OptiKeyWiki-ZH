@@ -7,63 +7,6 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 基于 ``2017年9月1日 GMT+8 下午3:57:35`` 更新的 ``[296db90]`` 版本
 
-#### 文档校稿进展
-
-进度: 45/51
-
-* Auto-capitalisation-&-auto-spacing, Done
-* Cannot-open-Management-Console, Done
-* Change-selection-method，Done
-* Change-the-theme，DDone
-* Contribute, Done
-* Conversation-only-mode，Done
-* Dictionary-management，Done
-* Eye-tracker-problems，Done
-* Factory-reset-all-settings, Done
-* Factory-reset-the-dictionary，Done
-* Free-TTS-Voices，Done
-* Get-started, Done
-* Home，Done
-* Issues-arranging-windows, Done
-* License，Done
-* Multi-key-selection-issues，Done
-* Multi-key-selection，Done
-* Multiple-monitors，Done
-* Next-word-prediction，Done
-* No-Menu-key,-no-mouse-key，Done
-* Numbers, symbols & diacritics，Done
-* Numbers,-symbols-and-diacritics，Done
-* OS-language-has-been-changed, Done
-* Other-issues, Done
-* Other-settings，Done
-* Pointing-&-selecting-settings, Done
-* Shut-down, Done
-* Simulate-a-keyboard,Done
-* Simulate-a-mouse,Done
-* Size-&-position,Done
-* Sleep,Done
-* Smart-Screen-or-Virus-Scanner-warnings，Done
-* Sound-settings, Done
-* Speech, Done
-* Speed-up-&-slow-down, Done
-* Suggestions, Done
-* Support-for-CommuniKate-boards, Done
-* Support-the-project, Done
-* Supported-eye-trackers, Done
-* Supported-languages, Done
-* System-requirements, Done
-* The-dictionary, Done
-* Transparency, Done
-* Type-your-first-word, Done
-* Using-eye-trackers, Done
-* Using-mouse-emulation, Done
-* Using-the-Tobii-PCEye-Go-tracker, Done
-* Using-webcams,
-* Videos,
-* Visual-settings,
-* Voice-banking
-* Word-settings
-
 #### 翻译进展
 
 伯乐在线翻译组将把英文文档翻成中文，目前英文文档有 53 篇，译稿完成的文章见标题已译中文的部分。
@@ -87,7 +30,7 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 
 *   [输入第一个单词(Type your first word)](https://github.com/JuliusSweetland/OptiKey/wiki/Type-your-first-word) （陈晓舜 翻译）
 *   [数字,符号和读音符(Numbers, symbols &amp; diacritics)](https://github.com/JuliusSweetland/OptiKey/wiki/Numbers,-symbols-and-diacritics) （陈晓舜 翻译）
-*   [使用眼球跟踪器(Using eye trackers)](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
+*   [使用眼动仪(Using eye trackers)](https://github.com/JuliusSweetland/OptiKey/wiki/Using-eye-trackers) （谭霓 翻译）
 *   [使用网络摄像头(Using webcams)](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams) （谭霓 翻译）
 *   [修改选择方式(Change selection method)](https://github.com/JuliusSweetland/OptiKey/wiki/Change-selection-method) （谭霓 翻译）
 *   [语音(Speech)](https://github.com/JuliusSweetland/OptiKey/wiki/Speech) Ree Ray  翻译
@@ -118,7 +61,6 @@ OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时�
 *   [其他设置(Other settings)](https://github.com/JuliusSweetland/OptiKey/wiki/Other-settings) Sean 翻译
 
 **故障解决方法:**
-
 *   [Smart Screen告警(Smart Screen warning)](https://github.com/JuliusSweetland/OptiKey/wiki/Smart-Screen-warning) auroradingdang 翻译
 *   [无法打开管理控制台(Cannot open Management Console)](https://github.com/JuliusSweetland/OptiKey/wiki/Cannot-open-Management-Console) (auroradingdang/Alick 翻译)
 *   [眼动仪的问题(Eye tracker problems)](https://github.com/JuliusSweetland/OptiKey/wiki/Eye-tracker-problems) auroradingdang 翻译
