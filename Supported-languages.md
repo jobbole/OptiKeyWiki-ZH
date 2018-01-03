@@ -1,7 +1,6 @@
 Supported Languages
-支持的语言
+语言支持
 ======
-
 
 OptiKey currently includes support for the following languages:
 
