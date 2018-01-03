@@ -1,5 +1,5 @@
 Supported eye trackers
-支持的眼动仪
+眼动仪支持
 ======
 
 OptiKey supports the following eye trackers...
