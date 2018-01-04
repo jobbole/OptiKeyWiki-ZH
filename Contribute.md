@@ -1,4 +1,4 @@
-Contribute.md
+Contribute
 贡献
 ======
 
@@ -21,3 +21,5 @@ If you are interested in helping to push this project forward please email me at
 
 Thank you!
 谢谢！
+
+
