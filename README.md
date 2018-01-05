@@ -3,12 +3,13 @@
 OptiKey 是一个开源的眼球跟踪软件。Julius 用三年半的业余时间，为渐冻人开发。详情请看伯乐在线的文章《[历时三年半，这位程序员在业余时间为渐冻人做了一个开源的眼球跟踪软件](http://blog.jobbole.com/88485/)》。
 
 ## OptiKey Wiki 翻译
-### [OptiKey 英文 Wiki](https://github.com/OptiKey/OptiKey/wiki)
 
-基于 ``2017年9月1日 GMT+8 下午3:57:35`` 更新的 ``[296db90]`` 版本
+本库存放 [OptiKey 英文 Wiki](https://github.com/OptiKey/OptiKey/wiki) 原文的中英对照版本（基于 ``2017年9月1日 GMT+8 下午3:57:35`` 更新的 ``[296db90]`` 版本）
+
+中文译本见 [中文Wiki](https://github.com/jobbole/OptiKeyWiki-ZH/wiki) 页
+
 
 #### 翻译进展
-
 
 | 章节|版本|译者|翻译进度|
 | ------------- |:-------------:|:-----:|:-----:|
