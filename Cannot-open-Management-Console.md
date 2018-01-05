@@ -14,7 +14,7 @@ If the console is still not opening then check that you do not have any modifier
 
 如果控制台没有打开，检查是否有其他的按键已经处理在按下状态，这些键会影响控制台激活热键输入，需先释放这些按键，比如 Shift, Ctrl, Win 或者 Alt 等。
 
-更多关于按键输入信息可以参考 “ [Simulate a physical keyboard （模拟物理键盘）](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) ” 页面。
+更多关于按键输入信息可以参考 “ [Simulate a physical keyboard （模拟外置键盘）](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) ” 页面。
 
 ---
 

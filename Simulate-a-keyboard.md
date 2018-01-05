@@ -4,7 +4,7 @@ Simulate a keyboard
 
 OptiKey is always simulating keystrokes (i.e. outputting what you type as if you are using a keyboard) , unless you are in the "Conversation" keyboard. Key-stroke simulation works like this:
 
-OptiKey 除了在“对话（Conversation）” 模式下有些特殊外，其原理就是模拟按键键入（比方说，键入什么就输出什么，和你用物理键盘时一样），键盘键入模拟的过程是这样的：
+OptiKey 除了在“对话（Conversation）” 模式下有些特殊外，其原理就是模拟按键键入（比方说，键入什么就输出什么，和你用外置键盘时一样），键盘键入模拟的过程是这样的：
 
 1. Focus another application where you would like to begin typing, e.g. you want to type a letter into Microsoft Word, or an email into Gmail. You can focus the other application by using a physical mouse to select it and bring it to the foreground, or use OptiKey to simulate the mouse selection (see ['Simulating a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)).
 
@@ -27,7 +27,7 @@ Along the bottom row of the keyboard you will notice a number of "modifier" keys
 
 These work in exactly the same way as they do on a physical keyboard, and can be combined with other keys by holding them down. Try selecting one of them and you'll notice that it cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP. For example, the Shift key progresses like this:
 
-这些按键的效果和物理键盘上的完全一样，同样能和其他按键一起按下构成组合键。在选取其中某个键后，在恢复到未选取（UP）状态以前，它会遍历（cycles）三个状态；未选取（UP），选取（DOWN），和锁住（LOCKED DOWN）。例如，Shift  键处理过程如下：
+这些按键的效果和外置键盘上的完全一样，同样能和其他按键一起按下构成组合键。在选取其中某个键后，在恢复到未选取（UP）状态以前，它会遍历（cycles）三个状态；未选取（UP），选取（DOWN），和锁住（LOCKED DOWN）。例如，Shift  键处理过程如下：
 
 ![Shift key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Shift_Up.png)
  ⇨
@@ -56,7 +56,7 @@ N.B. It is useful to clear the scratchpad (by selecting the Clear key) when chan
 
 **The physical keyboard**
 
-**物理键盘**
+**外置键盘**
 
 The 'Physical' keyboard contains the "other" keys from a standard keyboard, e.g. the function keys (F1-F12, PG UP, PG DN, INSERT, etc). To access it:
 

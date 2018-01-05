@@ -37,7 +37,7 @@ If you are finding OptiKey too slow because it is reacting too slowly (e.g. sele
 
 3. If there is a noticeable delay when generating multi-key selection suggestions, or word auto-complete suggestions then you can reduce the 'maximum number of dictionary matches' setting, which may speed things up. You can also turn off auto-complete suggestions. *See [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings) for more on this setting.*
 
-3. 如果在生成多键选择联想或单词自动联想时出现明显的延迟，则可以减少 “字典匹配的最大数量”（“maximum number of dictionary matches”）设置，这可以加快联想速度，当然你可也可以关闭自动联想。*具体查看 [单词设置](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings) for more on this setting.*
+3. 如果在生成多键选择联想或单词自动完成时出现明显的延迟，则可以减少 “字典匹配的最大数量”（“maximum number of dictionary matches”）设置，这可以加快联想速度，当然你可也可以关闭自动完成。*具体查看 [单词设置](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings) for more on this setting.*
 
 *If you are experiencing performance problems then it would be very helpful if you could email me with some details and I can attempt to fix the issue: [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)*
 
