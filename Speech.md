@@ -7,7 +7,7 @@ Speech
 
 1. Make key selections to type some text into the "scratchpad" (the area at the top of the OptiKey keyboard).
 
-2. 利用按键选取，键入一些文本信息到“提示框（scratchpad）”（ OptiKey 键盘的顶部区域）
+1. 利用按键选取，键入一些文本信息到 “提示框（scratchpad）”（ OptiKey 键盘的顶部区域）
 
 2. Select the Speak key (it will turn blue while the speech is being read out):
 
@@ -16,7 +16,7 @@ Speech
 
 3. If you want to stop the in-progress speech at any time select the Speak key again (while it is still blue). This is useful if you accidentally intruct OptiKey to speak before you are ready and the "scratchpad" has a lot of text.
 
-3. 任何时候你想停止进行中的语音，只需要再次选取朗读（Speak）键（此时依然为蓝色）即可。如果“提示框（scratchpad）”塞满文本信息却没准备好，又不小心触发了 OptiKey 的朗读操作时，这就显得非常管用。
+3. 任何时候你想停止进行中的语音，只需要再次选取朗读（Speak）键（此时依然为蓝色）即可。如果 “提示框（scratchpad）” 塞满文本信息却没准备好，又不小心触发了 OptiKey 的朗读操作时，这就显得非常管用。
 
 4. The voice, rate of speech and volume are all changeable from the Management Console (with OptiKey focussed press ALT + M).
 4. 语音、语速和音量都可以通过管理控制台（Management Console）（在 OptiKey 下只需按 ALT + M 快捷键）控制。
@@ -69,7 +69,7 @@ You can either stick with igor, or try one of the Czech voices. The pronunciatio
 
 **Free UK Male Voice 'Rich'**
 
-**免费的英国男性发音 'Rich'**
+**免费的英国男性发音 "Rich" **
 
 A British voice actor called Rich has very kindly created and donated his voice for use with OptiKey. The TTS voice was created using ModelTalker.org (you can read more about [voice banking here](https://github.com/OptiKey/OptiKey/wiki/Voice-banking)).
 

@@ -27,25 +27,25 @@ To open the Management Console either right click on OptiKey itself (not the ico
 <a name="sounds-sounds-effects">**音效**</a>
 
 4. Info: The sound to play when an information notification window is displayed. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-4. 信息：显示信息通知窗口时播放的音，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+4. 信息：显示信息通知窗口时播放的音，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 5. Error: The sound to play when an error notification window is displayed. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-5. 错误：显示错误通知窗口时播放的音效，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+5. 错误：显示错误通知窗口时播放的音效，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 6. Key Selection: The sound to play when a key is selected (this is not played for a selection which starts/ends a multi-key selection). The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-6. 键选择：当一个键被选择时播放的音效（开始/结束多键选择时并不会播放该音效），音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+6. 键选择：当一个键被选择时播放的音效（开始/结束多键选择时并不会播放该音效），音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 7. Multi-key selection starting: The sound to play when a multi-key selection is starting. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-7. 开始多键选择：开始一个多键选择时播放的音效，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+7. 开始多键选择：开始一个多键选择时播放的音效，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 8. Multi-key selection ending: The sound to play when a multi-key selection is ending. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-8. 结束多键选择：结束一个多键选择时播放的音效，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+8. 结束多键选择：结束一个多键选择时播放的音效，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 9. Mouse click: The sound to play when a mouse single click is simulated. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-9. 鼠标单击：当模拟鼠标单击时播放的音效，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+9. 鼠标单击：当模拟鼠标单击时播放的音效，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 10. Mouse double click: The sound to play when a mouse double click is simulated. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-10. 鼠标双击：当模拟鼠标双击时播放的音效，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+10. 鼠标双击：当模拟鼠标双击时播放的音效，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。
 
 11. Mouse scroll: The sound to play when a mouse scroll is simulated. The volume can set from 0 to 100 (mute to loud). The 'Play' button previews your changes.
-11. 鼠标滑动：当模拟鼠标滑动时播放的音效，音量设置可以从 0 到 100（静音到高音）。‘播放（Play）’按钮可以试听修改。
+11. 鼠标滑动：当模拟鼠标滑动时播放的音效，音量设置可以从 0 到 100（静音到高音）。"播放（Play）" 按钮可以试听修改。

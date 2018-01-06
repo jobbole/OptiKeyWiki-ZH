@@ -4,7 +4,7 @@ Suggestions
 
 After typing each letter in a word or completing a multi-key selection (see [Multi-key selection](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more), OptiKey will suggest words above the scratchpad. You can scroll through the suggestions using the Previous Suggestions and Next Suggestions keys:
 
-每键入单词中的一个字母或完成一次多键选择输入（multi-key selection）时（参见 [多键选择](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)），OptiKey 会在提示框（scratchpad）上方列出自动联想的单词。你可以用“向前”键和“向后”键滚动选择联想词：
+每键入单词中的一个字母或完成一次多键选择输入（multi-key selection）时（参见 [多键选择](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)），OptiKey 会在提示框（scratchpad）上方列出自动联想的单词。你可以用向前和向后键滚动选择联想词：
 
 ![Previous suggestions key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Previous_Suggestions_Up.png)
 

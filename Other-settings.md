@@ -4,7 +4,7 @@ Other Settings
 
 To open the Management Console either right click on OptiKey itself (not the icon in the taskbar) and select to open the management console from the context menu that opens, or with OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet), then select the 'Other' tab at the top. You can interact with the Management Console using either OptiKey's mouse and keyboard emulation, or a physical mouse and keyboard.
 
-在 OptiKey 中同时按下键盘上的‘ALT’和‘M’键（物理按键或者平板电脑屏幕上的虚拟按键）可以打开管理控制台（Management Console），然后选择顶部的‘其他（Other）’标签。
+在 OptiKey 中同时按下键盘上的‘ALT’和‘M’键（物理按键或者平板电脑屏幕上的虚拟按键）可以打开管理控制台（Management Console），然后选择顶部的 "其他（Other）" 标签。
 
 访问管理控制台（Management Console）必须通过物理鼠标或键盘。
 

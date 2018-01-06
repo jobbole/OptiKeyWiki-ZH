@@ -20,11 +20,11 @@ After using OptiKey you discover that your operating system language has changed
 6. You should see a list of "Actions" and "Key sequences" - select the relevant actions and click on "Change Key Sequence" to change it to "Not Assigned" for both "Switch Input Language" and "Switch Keyboard Layout".
 
 1. 打开控制面板
-2. 单击 “区域和语言”
-3. 单击 “语言”
-4. 单击 “高级设置”
-5. 单击 “更换语言栏热键”
-6. 在 “操作” 和 “键序列” 的列表中，选择相关操作，然后单击 “更改键序列”，将 “切换输入语言” 和 “切换键盘布局” 都设为 “无” 状态。
+2. 单击 “区域和语言(Clock, Language, and Region)”
+3. 单击 “语言(Language)”
+4. 单击 “高级设置(Advanced Settings)”
+5. 单击 “更换语言栏热键(Change language bar host keys)”
+6. 在 “操作(Actions)” 和 “键序列(Key sequences)” 的列表中，选择相关操作，然后单击 “更改键序列(Change Key Sequence)”，将 “切换输入语言(Switch Input Language)” 和 “切换键盘布局(Switch Keyboard Layout)” 都设为 “无(Not Assigned)” 状态。
 
 [More info here](http://superuser.com/questions/698037/can-i-disable-the-altshift-shortcut-to-change-language-in-windows-8-1)
 

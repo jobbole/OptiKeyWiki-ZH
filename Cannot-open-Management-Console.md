@@ -10,7 +10,7 @@ Cannot open Management Console
 If the console is still not opening then check that you do not have any modifier keys pressed/locked down as they will interfere with you pressing ALT + M. Release any down modifier keys (Shift, Ctrl, Win, or Alt). More info on modifier keys can be found on the ['Simulate a physical keyboard' page](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard).
 
 1. 首先激活 OptiKey ，当 OptiKey 被激活时，在任务栏上高亮显示，但是如果你不确定，只需要点击 OptiKey 来激活。
-2. 同时按住 “ ALT ” 和 “ M ” 键打开控制台。
+2. 同时按住 ALT 和 M 键打开控制台。
 
 如果控制台没有打开，检查是否有其他的按键已经处理在按下状态，这些键会影响控制台激活热键输入，需先释放这些按键，比如 Shift, Ctrl, Win 或者 Alt 等。
 
@@ -32,7 +32,7 @@ If you have OptiKey v2.2.3 (or later) you can right click anywhere ON OptiKey (N
 
 If you are using a Tobii tracker with EyeX software version 2.0.2.219 (or later) then the ALT key may change which application is focussed as the EyeX software has a built in window selection action ("Mouse Warp") which interferes with the Management Console shortcut (ALT+M). There are 2 possible work arounds;
 
-如果你使用了 Tobii 眼动仪的 EysX 软件 2.0.2.219(或更高版本) , ALT 键可能被 EysX 更改为窗口选择动作("Mouse Warp")，这个会导致控制台的快捷键(ALT+M)不生效，这个问题有两个解决方法：
+如果你使用了 Tobii 眼动仪的 EysX 软件 2.0.2.219(或更高版本) , ALT 键可能被 EysX 更改为窗口选择动作 ("Mouse Warp")，这个会导致控制台的快捷键(ALT+M)不生效，这个问题有两个解决方法：
 
 1. Disable "Mouse Warp" and ensure the "Mouse warp on click" and "Mouse clone" both have their keys set to "No Key". You might have to reset the EyeX settings (from Settings -> About) and reboot your computer for these settings to correctly take effect.
 

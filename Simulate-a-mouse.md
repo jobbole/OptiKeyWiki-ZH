@@ -64,7 +64,7 @@ When scrolling the number of wheel clicks to apply is indicated on the key label
 
 To increase your precision when making mouse selections you can switch on magnification by pressing, or locking down the Magnifier key. You'll notice that the Magnification key cycles through 3 states; UP, DOWN, and LOCKED DOWN, before returning to UP, meaning the magnify functionality can be off, on for just the next mouse action, or permanently on. The progression as you select the key looks like this:
 
-为了增加鼠标选择的准确性，你可以按下或者锁定放大按键（“Magnifier”）来打开放大功能。你会注意到放大键在三个状态切换：放大、缩小和锁定，在放大返回前，放大功能可以关闭，只为下一次鼠标操作打开，或者是持续打开。你选择这个按键的过程就像下面这样：
+为了增加鼠标选择的准确性，你可以按下或者锁定放大按键（Magnifier）来打开放大功能。你会注意到放大键在三个状态切换：放大、缩小和锁定，在放大返回前，放大功能可以关闭，只为下一次鼠标操作打开，或者是持续打开。你选择这个按键的过程就像下面这样：
 
 ![Magnifier key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Magnifier_Up.png)
  ⇨
@@ -95,11 +95,11 @@ Selecting a point becomes a two step process when using the magnifier:
 
 Performing a Drag operation is slightly different as two selections have to be made after you select the drag key:
 
-在你选择拖动（“Drag”）按键执行一个拖动操作时，稍微有点不同，因为需要有两个选择：
+在你选择拖动（Drag）按键执行一个拖动操作时，稍微有点不同，因为需要有两个选择：
 
 1. Select point one (this will be a two step process if the Magnifier key is pressed or locked down). This first selection will be where the mouse button is pressed and held down.
 
-1. 选择位置1（如果放大（“Magnifier”）按键按下或锁定，这里有两个操作步骤）。这是鼠标按键按下或者锁定的第一个位置。
+1. 选择位置1（如果放大（Magnifier）按键按下或锁定，这里有两个操作步骤）。这是鼠标按键按下或者锁定的第一个位置。
 
 2. Select point two (again, a two step process if using the magnify feature) - this will be the point to which the mouse cursor is dragged and released.
 
@@ -111,4 +111,4 @@ Performing a Drag operation is slightly different as two selections have to be m
 
 The 'Repeat Last' key allows you to repeat the last mouse action taken, which can be useful if you want to scroll down a long web page one scroll at a time, for example.
 
-“重复上次 （Repeat Last）” 按键允许你重复上一次的鼠标操作，例如，当你浏览一个长网页想要每次滚动一下时非常有用。
+“重复上次（Repeat Last）” 按键允许你重复上一次的鼠标操作，例如，当你浏览一个长网页想要每次滚动一下时非常有用。

@@ -8,7 +8,7 @@ You can put OptiKey to sleep while you take a rest or do something else by selec
 如果你在休息或忙别的工作，你可以点击 “睡眠（Sleep）”（大部分键盘都支持或从菜单里选取）按键让 OPtikey 进入睡眠模式。
 
 1. Select the 'Menu' key:
-2. 选择 “菜单（Menu）” 按键：
+1. 选择 “菜单（Menu）” 按键：
 
 ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
