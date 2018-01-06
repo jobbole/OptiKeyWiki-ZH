@@ -28,7 +28,7 @@ Speech
 
 OptiKey supports Microsoft SAPI voices, which can be found by installing various Windows languages packs, or by installing any 3rd party SAPI compatible voices. Voices can be selected in the Management Console (with OptiKey focussed press ALT + M). Please google for instructions on how to add new voices as the method varies for each version of Windows.
 
-OptiKey 支持 Microsoft SAPI 语音，可以安装各种 Windows 语言包及任何第三方 SAPI 兼容语音。在管理控制台中选择 "语音(Voices)"（使用OptiKey集中按ALT + M 可以打开管理控制台）。
+OptiKey 支持 Microsoft SAPI 语音，可以安装各种 Windows 语言包及任何第三方 SAPI 兼容语音。在管理控制台中选择 “语音(Voices)"（使用OptiKey集中按ALT + M 可以打开管理控制台）。
 
 添加新的语音请自行谷歌了解，主要是各 Windows 版本添加的方法各不相同。
 
@@ -98,11 +98,11 @@ MaryTTS 是一个独立的且免费的应用程序，可以与 OptiKey 一起使
 
 To use MaryTTS with OptiKey download marytts-5.2.zip (or later) from [http://mary.dfki.de/download/index.html](http://mary.dfki.de/download/index.html) and extract it to anywhere (such as "C:\MaryTTS\marytts-5.2"). Then in Optikey's management console, under the Sounds tab, check Use MaryTTS speech synthesizer and press FIND to navigate to the unpacked marytts-server.bat ("C:\MaryTTS\marytts-5.2\bin\marytts-server.bat" in the example). After Optikey restarts a minimised cmd window will also be started containing the MaryTTS server and the available MaryTTS voices will be listed in the management console in the Sounds tab under MaryTTS voice:Welcome
 
-从 [http://mary.dfki.de/download/index.html](http://mary.dfki.de/download/index.html)  可以下载 marytts-5.2.zip (或更新版本) 为 OptiKey 提供更多的 MaryTTS，将下载的文件解压到任意位置（如："C:\MaryTTS\marytts-5.2"）。之后在 OptiKey 的管理控制器的语音("Sound")标签下，选择 MaryTTS 语音合成器，选择查找（"FIND"）查找到之前解压的 marytts-server.bat 文件（如："C:\MaryTTS\marytts-5.2\bin\marytts-server.bat" ）。在重启 OptiKey 之后，一个包含 MaryTTS 的最小化命令端口将同时启动，此时在 OptiKey 的管理控制器的语音（"Sounds"）标签页下可选择 MaryTTS 语音（"Welcome")
+从 [http://mary.dfki.de/download/index.html](http://mary.dfki.de/download/index.html)  可以下载 marytts-5.2.zip (或更新版本) 为 OptiKey 提供更多的 MaryTTS，将下载的文件解压到任意位置（如："C:\MaryTTS\marytts-5.2"）。之后在 OptiKey 的管理控制器的语音(“Sound”)标签下，选择 MaryTTS 语音合成器，选择查找（"FIND"）查找到之前解压的 marytts-server.bat 文件（如："C:\MaryTTS\marytts-5.2\bin\marytts-server.bat” ）。在重启 OptiKey 之后，一个包含 MaryTTS 的最小化命令端口将同时启动，此时在 OptiKey 的管理控制器的语音（"Sounds"）标签页下可选择 MaryTTS 语音（"Welcome”)
 
 To install more MaryTTS voices run marytts-component-installer.bat ("C:\MaryTTS\marytts-5.2\bin\marytts-component-installer.bat" in the example).
 
-通过执行 marytts-component-installer.bat (如："C:\MaryTTS\marytts-5.2\bin\marytts-component-installer.bat") 可以安装更多的 MaryTTS 语音。
+通过执行 marytts-component-installer.bat (如："C:\MaryTTS\marytts-5.2\bin\marytts-component-installer.bat”) 可以安装更多的 MaryTTS 语音。
 
 N.B. some users have reported problems where OptiKey cannot automatically start/stop MaryTTS. If you experience this please ensure you have an up to date version of Java installed.
 

@@ -12,27 +12,25 @@ At some point you'll probably want to type a number, symbol, diactrical letter (
 
 To get to the 'Numbers & Symbols' keyboard select the 'Numbers & Symbols' key directly from the main 'Alpha' (letters) keyboard:
 
-要打开 "数字和符号(Numbers & Symbols)" 键盘，直接从主 "字母(Alpha) 键盘中选择 "数字和符号(Numbers & Symbols)" 键。
+要打开 “数字和符号(Numbers & Symbols)” 键盘，直接从主 “字母(Alpha) 键盘中选择 “数字和符号(Numbers & Symbols)” 键。
 
 ![Symbols key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Symbols_Up.png)
 
 Alternatively select the 'Numbers & Symbols' key from the menu keyboard:
 
-或者从菜单键选择 "数字和字符(Numbers & Symbols)" 键：
+或者从菜单键选择 “数字和字符(Numbers & Symbols)” 键：
 
 1.Select the 'Menu' key:
-1.选择 "菜单(Menu)" 键：
+1.选择 “菜单(Menu)” 键：
     ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
 2.Select the 'Numbers & Symbols' key:
-2.选择 "数字和符号(Numbers & Symbols)" 键：
+2.选择 “数字和符号(Numbers & Symbols)” 键：
     ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The 'Numbers & Symbols' keyboards look like this:
 
-"数字和符号(Numbers & Symbols)" 键盘：
-
-![](Numbers, symbols & diacritics/Keyboard_Symbols_1of3.png)
+"数字和符号(Numbers & Symbols)” 键盘：
 
 ![Symbols keyboard 1 of 3](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Symbols_1of3.png)
 ![Symbols keyboard 2 of 3](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Symbols_2of3.png)
@@ -68,12 +66,12 @@ If you want diacritical letters (letters with accents etc):
 如果你想要变音符字母（例如有一些音调的字母）：
 
 1.Select the 'Menu' key:
-1.选择 "菜单(Menu)" 键：
+1.选择 “菜单(Menu)” 键：
 
 ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
 2.Select the 'Diacritics' key:
-2.选择 "读音符(Diacritics)" 键：
+2.选择 “读音符(Diacritics)” 键：
 
 ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
@@ -96,12 +94,12 @@ If you want currency symbols:
 打开货币符号选择：
 
 1.Select the 'Menu' key:
-1.选择 "菜单(Menu)" 键：
+1.选择 “菜单(Menu)” 键：
 
     ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)![](Numbers, symbols & diacritics/Key_Menu_Up.png)
 2.Select the 'Currency' key:
 
-2.选择 "货币(Currency)" 键：
+2.选择 “货币(Currency)” 键：
     ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The currency keyboards look like this:
@@ -112,3 +110,5 @@ The currency keyboards look like this:
 
 You can toggle between the currency keyboard screens by selecting the keyboard number key. As always, the Alpha key takes you back to the letters keyboard.
 你可以通过键盘的数字键在货币键盘屏幕间切换。同样的，使用 Alpha 键返回到字母键盘。
+
+

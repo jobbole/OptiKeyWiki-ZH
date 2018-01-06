@@ -4,7 +4,7 @@ Using eye trackers.md
 
 OptiKey can be controlled with a mouse, but really comes into its own when controlled with an eye tracker. [The list of supported eye tracking devices is available here](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers).
 
-OptiKey 可以使用鼠标来控制，但是通过眼球眼动仪控制才真正体现出它的强大价值。[这里是所支持的眼动仪清单](https://github.com/JuliusSweetland/OptiKey/wiki/Supported-eye-trackers)。
+OptiKey 可以使用鼠标来控制，但是通过眼球眼动仪控制才真正体现出它的强大价值。[这里是所支持的眼动仪清单](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Supported-eye-trackers)。
 
 ![TheEyeTribe device setup](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/theeyetribe-physical-setup.png)
 
@@ -19,13 +19,13 @@ OptiKey 可以使用鼠标来控制，但是通过眼球眼动仪控制才真正
 3. 一旦它开始跟踪，你的眼睛就能可靠地启动 OptiKey。
 
 4. If this is the first time you have used your eye tracker with OptiKey you will need to tell OptiKey which device you want to use. Open OptiKey's Management Console (with OptiKey focussed press ALT + M) and select the "Pointing & Selecting" tab.
-4. 如果这是你第一次配套使用 OptiKey 和眼球眼动仪，则需要告诉 OptiKey 使用哪个设备。打开 OptiKey 管理控制台（在 OptiKey 中按下 ALT+M），选择 "指向和选择（Pointing & Selecting）" 选项卡。
+4. 如果这是你第一次配套使用 OptiKey 和眼球眼动仪，则需要告诉 OptiKey 使用哪个设备。打开 OptiKey 管理控制台（在 OptiKey 中按下 ALT+M），选择 “指向和选择（Pointing & Selecting）” 选项卡。
 
 5. Change the "Source" (under "Pointing") to your tracking device.
 5. 修改 “来源（Source）”（在 “指向（Pointing）” 下方）为你的跟踪设备。
 
 6. Leave the "Key selection source" and "Point selection source" set to "Fixation" for now.
-6. 将 “键选择来源（Key selection source）” 和 "指向选择来源（Point selection source）" 设置为 "固定（Fixation）"。
+6. 将 “键选择来源（Key selection source）” 和 “指向选择来源（Point selection source）” 设置为 “固定（Fixation）"。
 
 7. Click "OK" to save your changes. OptiKey may need to restart, but your changes will be saved.
 7. 点击 “OK” 保存修改。OptiKey 可能需要重启，修改的配置会自动保存。

@@ -87,7 +87,7 @@ Selecting a point becomes a two step process when using the magnifier:
 
 2. 在放大的图像上，注视想点击和滚动的准确位置，并在那个点上执行操作（或者在放大区域外选择来取消这个操作）。
 
-![Image] (https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Clicking_On_Magnified_Folder.png)
+![Image](https://github.com/JuliusSweetland/OptiKey/raw/gh-pages/images/Clicking_On_Magnified_Folder.png)
 
 **Dragging**
 

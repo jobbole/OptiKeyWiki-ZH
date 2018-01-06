@@ -8,7 +8,7 @@ Multi-key Selection
 
 Instead of typing each letter of a word individually, it is possible to capture a whole word (or phrase) in one go. To activate multi-key selection select the Multi-key Selection key to press or lock it down:
 
-Optikey 能够一次性录入整个单词（或短语），而不需要逐字输入单词的每个字母。通过按下或者锁定 "多键选择（Multi-key Selection）" 按键即可激活多键选择功能：
+Optikey 能够一次性录入整个单词（或短语），而不需要逐字输入单词的每个字母。通过按下或者锁定 “多键选择（Multi-key Selection）” 按键即可激活多键选择功能：
 
 1. ![Multi-key selection key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_MultiKeySelection_Up.png)
 2. ![Multi-key selection key locked down](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Typing_Hello_MultiKeyCapture_Turning_On_MultiKeyCapture.png)
@@ -45,7 +45,7 @@ The process of capturing a word using fixation selection then works like this;
 
 3. When you get to the last letter select it to signal that you are finished capturing the word (or phrase). OptiKey will match what you captured with its dictionary of words and phrases and type the best match to the "scratchpad". Alternative suggestions will be displayed at the top, which you can select if OptiKey matched your capture to the wrong word.
 
-3. 当到达到最后一个字母时，你需要选择它来告知这个单词（或短语）已经完成录入了。Optikey 会把你录入的内容同字典中的单词和短语做匹配，然后在 "提示框（scratchpad）" 输出最匹配的。如果Optikey匹配的单词不正确，你可以在顶部的备选建议中进行选择。
+3. 当到达到最后一个字母时，你需要选择它来告知这个单词（或短语）已经完成录入了。Optikey 会把你录入的内容同字典中的单词和短语做匹配，然后在 “提示框（scratchpad）” 输出最匹配的。如果Optikey匹配的单词不正确，你可以在顶部的备选建议中进行选择。
 
     ![Multi-key selection of hello completed](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Typing_Hello_MultiKeyCapture_Complete.png)
 
@@ -78,7 +78,7 @@ Whole phrases are types in the same way as whole words, but instead of typing ea
 
 2. Direct your attention to the first letter of each word, so "a", then "y" in our example.
 
-2. 注视每个单词的首字母，对上例而言，先 "a" 后 “y”。
+2. 注视每个单词的首字母，对上例而言，先 “a” 后 “y”。
 
 3. Stay on the last letter ("y") to select it and signal that you are finished capturing. The set of matching words and phrases will be calculated and the best choice output to the scratchpad (the rest of the suggestions will appear at the top, above the scratchpad).
 
@@ -86,4 +86,4 @@ Whole phrases are types in the same way as whole words, but instead of typing ea
 
 *N.B. OptiKey can only find matches for your multi-key selection in its dictionary - see ['Changing and editing the dictionary'] (https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) for info on how to add and remove words and phrases.*
 
-*注意：Optikey只能够在它的字典中找到多键选择的词库 —— 关于如何增加和删除单词和短语，请查看 [改变和编辑字典]https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide##changing-and-editing-the-dictionary) 部分。*
+*注意：Optikey只能够在它的字典中找到多键选择的词库 —— 关于如何增加和删除单词和短语，请查看 [改变和编辑字典](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/User-Guide##changing-and-editing-the-dictionary) 部分。*

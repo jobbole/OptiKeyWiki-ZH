@@ -4,7 +4,7 @@ No Menu key, no mouse key
 
 If you are unable to see the Menu key or Mouse key you may be running in 'Conversation Only' mode (see ['Conversation only mode'](https://github.com/JuliusSweetland/OptiKey/wiki/Conversation-only-mode) for more). To return from 'Conversation Only' mode;
 
-如果你无法看到菜单（Menu）键或鼠标（Mouse）键，你可能是运行在 “仅对话（Conversation Only）” 模式（更多内容参见[仅对话模式](https://github.com/JuliusSweetland/OptiKey/wiki/Conversation-only-mode)）。如果你想从 “仅对话” 模式退出：
+如果你无法看到菜单（Menu）键或鼠标（Mouse）键，你可能是运行在 “仅对话（Conversation Only）” 模式（更多内容参见 [仅对话模式](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Conversation-only-mode) ）。如果你想从 “仅对话” 模式退出：
 
 1. With OptiKey focussed press ALT + M to open the Management Console.
 

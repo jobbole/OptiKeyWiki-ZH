@@ -26,4 +26,4 @@ The 'Sleep' key can be toggled on and off by selecting it. When the 'Sleep' key 
 ![Sleep key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Sleep_Locked_Down.png)
  ⇨
 ![Sleep key up](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Sleep_Up.png)
-etc
+

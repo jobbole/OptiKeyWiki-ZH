@@ -21,4 +21,4 @@ To upgrade your PCEye Go firmware email support@tobii.com, or follow these steps
 
 * Once TGIS is updated, you will be prompted to upgrade the PCEye Go firmware on first launch. If it doesn’t, open the “System Information” tab and initiate the update manually.
 
-* TGIS 升级完成之后，首次执行会提升升级 PCEye Go 的固件版本，如果没有出现固件升级提示，可以在 "系统信息项（System Information）" 下进行手工升级。
+* TGIS 升级完成之后，首次执行会提升升级 PCEye Go 的固件版本，如果没有出现固件升级提示，可以在 “系统信息项（System Information）” 下进行手工升级。

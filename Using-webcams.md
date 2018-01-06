@@ -37,7 +37,7 @@ These applications should all work with OptiKey:
 5. 暂时保持 “按键选择来源（Key selection source）” 和 “点选择来源（Point selection source）” 的设置为 “固定（Fixation）”。
 
 6. You may want to [slow OptiKey down a little.](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&-slow-down)
-6. 适当[调慢 OptiKey](https://github.com/JuliusSweetland/OptiKey/wiki/Speed-up-&-slow-down)
+6. 适当[调慢 OptiKey](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Speed-up-&-slow-down)
 
 7. Click "OK" to save your changes. OptiKey may need to restart, but your changes will be saved.
 7. 点击 “OK” 保存修改。OptiKey 可能需要重启，修改会被自动保存。
