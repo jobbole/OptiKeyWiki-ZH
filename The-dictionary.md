@@ -31,7 +31,7 @@ The default dictionary contains many common words and phrases, but you will prob
 
 4. Click 'OK' to save your changes.
 
-4. 点击 “ 确定 （OK） ”，保存更改。
+4. 点击 “确定（OK）”，保存更改。
 
 ---
 
@@ -42,7 +42,7 @@ The default dictionary contains many common words and phrases, but you will prob
 
 You can also add words and phrases directly from the scratchpad by pressing the Add To Dictionary key. OptiKey will examine the words and sentences that you have already typed into the scratchpad and ask you which you would like to add to the dictionary:
 
-你也可以点击 “ 添加到词典（Add To Dictionary）” 键，将提示框中的单词和短语添加到词典。OptiKey 会检查你输入到提示框的单词和句子，并询问你想添加哪部分到词典中：
+你也可以点击 “添加到词典（Add To Dictionary）” 键，将提示框中的单词和短语添加到词典。OptiKey 会检查你输入到提示框的单词和句子，并询问你想添加哪部分到词典中：
 
 
 1. Type the word to add on its own, or as part of a sentence.

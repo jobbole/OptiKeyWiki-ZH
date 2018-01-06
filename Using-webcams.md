@@ -31,7 +31,7 @@ These applications should all work with OptiKey:
 3. 打开 OptiKey 的管理控制台（在 OptiKey 界面，按下键盘上的‘ALT’和‘M’），然后选择 “指向和选择（Pointing & Selecting）” 选项。
 
 4. Change the "Source" (under "Pointing") to "Mouse Position".
-4. 修改 “来源（Source）”（在“指向（Pointing）”下）为 “鼠标位置（Mouse Position）”
+4. 修改 “来源（Source）” （在“指向（Pointing）”下）为 “鼠标位置（Mouse Position）”
 
 5. Leave the "Key selection source" and "Point selection source" set to "Fixation" for now.
 5. 暂时保持 “按键选择来源（Key selection source）” 和 “点选择来源（Point selection source）” 的设置为 “固定（Fixation）”。
@@ -43,7 +43,7 @@ These applications should all work with OptiKey:
 7. 点击 “OK” 保存修改。OptiKey 可能需要重启，修改会被自动保存。
 
 8. When OptiKey starts up again it will be listening to your mouse cursor's position so try moving your head (or whatever your webcam application is tracking). Position the cursor over a key and complete a fixation ("dwell") to make a selection.
-8. 当 OptiKey 重启后，即可响应鼠标光标的位置，试试移动你的头部（或任何摄像头应用在跟踪的部位）。将光标位置固定在一个键上，用定位（“停留（dwell）”）来完成选择。
+8. 当 OptiKey 重启后，即可响应鼠标光标的位置，试试移动你的头部（或任何摄像头应用在跟踪的部位）。将光标位置固定在一个键上，用定位（“停留（dwell）”） 来完成选择。
 
 **N.B.** OptiKey will attempt to use your mouse cursor position every time you run it from now on until you change the Pointing source to something else.
 **注意：**从现在开始，每次运行OptiKey，它会尝试使用鼠标光标位置直到你修改指向源为其他设置。

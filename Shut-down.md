@@ -12,7 +12,7 @@ Closing/shutting down/quitting OptiKey can be performed by selecting the QUIT ke
 
 1. Select the 'Menu' key:
 
-1. 选择“菜单(Menu)”键:
+1. 选择 “菜单(Menu)” 键:
 
     ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 

@@ -5,7 +5,7 @@ Pointing and Selecting Settings
 
 To open the Management Console either right click on OptiKey itself (not the icon in the taskbar) and select to open the management console from the context menu that opens, or with OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet), then select the 'Pointing & Selecting' tab at the top. You can interact with the Management Console using either OptiKey's mouse and keyboard emulation, or a physical mouse and keyboard.
 
-在 Optikey 上按下键盘的“ALT”和“M”按键（物理的或者平板屏幕上的）去打开管理控制台，然后在顶部选择“定点与选择(Pointing & Selecting)”的标签。必须使用物理鼠标和键盘才能访问管理控制台。
+在 Optikey 上按下键盘的 “ALT” 和 “M” 按键（物理的或者平板屏幕上的）去打开管理控制台，然后在顶部选择 “定点与选择(Pointing & Selecting)” 的标签。必须使用物理鼠标和键盘才能访问管理控制台。
 
 ![Management Console Pointing and Selecting tab with TheEyeTribe position and selecting source](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Pointing_And_Selecting_EyeTribe_Numbered.png)
 
@@ -19,7 +19,7 @@ To open the Management Console either right click on OptiKey itself (not the ico
 
 2. Time until point becomess irrelevent (ms): If the source device (e.g. an eye tracker) timestamps the location data, then this setting controls how old a received point can be before it is considered too old to be useful. These "stale" points will be logged for debugging purposes and then discarded.
 
-2. 定点失效的时间（毫秒）：如果源设备（比如一个眼动仪）给位置数据打上了时间戳，这个设定会决定一个接收到的点可以使用多长时间。调试过程中，这些“过时的”点可以被记录下来然后被丢弃掉。
+2. 定点失效的时间（毫秒）：如果源设备（比如一个眼动仪）给位置数据打上了时间戳，这个设定会决定一个接收到的点可以使用多长时间。调试过程中，这些 “过时的(stale)” 点可以被记录下来然后被丢弃掉。
 
 <a name="selection-with-fixations">**Selection with fixations**</a>
 
@@ -31,9 +31,10 @@ To open the Management Console either right click on OptiKey itself (not the ico
 
 4. Key fixation time to lock-on (ms): Specific to 'Key selection source' of 'Fixations', this setting dictates how long you must direct your attention to a key (using whatever 'Source' you have selected, e.g. by looking at a key when using an eye tracking source) before a fixation begins. The lock-on period is designed so that a deliberate pause is required on a key before a fixation begins. Without a 'lock-on' period every key will immediately begin a fixation as you direct your attention around the keyboard, which makes the interface busy and less clear.
 
-4. 锁定按键定位的时间（毫秒）：当“按键选择来源(Key selection source)” 是 “定位(Fixations)”时，这个设定表明在定位开始前，你要注视多长时间在一个按键上（使用你选择的 “来源（Source）”，比如，当使用一个眼动仪时注视一个按键）。在定位开始之前，需要经过一个刻意设计的锁定延迟时间。如果没有这个锁定时间，一旦当你注视到键盘上，按键会立刻起作用，这样会让接口很忙而且不够清晰。
+4. 锁定按键定位的时间（毫秒）：当 “按键选择来源(Key selection source)” 是 “定位(Fixations)” 时，这个设定表明在定位开始前，你要注视多长时间在一个按键上（使用你选择的 “来源（Source）”，比如，当使用一个眼动仪时注视一个按键）。在定位开始之前，需要经过一个刻意设计的锁定延迟时间。如果没有这个锁定时间，一旦当你注视到键盘上，按键会立刻起作用，这样会让接口很忙而且不够清晰。
 
 5. Resuming an incomplete key fixation requires a new lock-on: Specific to 'Key selection source' of 'Fixations', this setting dictates whether you need to direct your attention to a key for the lock-on period again when resuming an incomplete selection before the progress continues. **N.B.** An incomplete selection can be discarded during the lock-on period when returning to an incomplete selection.
+
 5. 需要一个新的锁定来恢复一个未完成的按键定位：当 “按键选择来源（Key selection source）” 是 “定位（Fixations）” 时，这个设定表明在恢复一个未完成的定位之前，你是否需要再注视锁定多长时间在一个按键上。注意：在恢复未完成选择的锁定期间，这个选择是可以被丢弃。
 
 6. Key fixation time to complete (ms): Specific to 'Key selection source' of 'Fixations', this setting dictates how long you must direct your attention to a key (using whatever 'Source' you have selected, e.g. by looking at a key when using an eye tracking source) before a fixation completes. A lower number means fixations complete faster and you can type at a more rapid pace, but your likelihood of making unintended selections also increases. A higher number means fixations complete more slowly, restricting your typing pace, but reducing the chance of unintended selections.

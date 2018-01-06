@@ -4,7 +4,7 @@ Visual settings
 
 To open the Management Console either right click on OptiKey itself (not the icon in the taskbar) and select to open the management console from the context menu that opens, or with OptiKey selected press 'ALT' and 'M' on your keyboard (physical or on-screen if using a tablet), then select the 'Visuals' tab at the top. You can interact with the Management Console using either OptiKey's mouse and keyboard emulation, or a physical mouse and keyboard.
 
-在 OptiKey 界面，按下键盘（物理的，或平板屏幕上的）的 ‘ALT’ 和 ‘M’ 来打开管理控制台，选择顶部的 ‘视觉（Visuals）’ 项。管理控制台必须使用物理的鼠标和键盘来访问。
+在 OptiKey 界面，按下键盘（物理的，或平板屏幕上的）的 ‘ALT’ 和 ‘M’ 来打开管理控制台，选择顶部的 "视觉（Visuals）" 项。管理控制台必须使用物理的鼠标和键盘来访问。
 
 ![Management Console Visual tab](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
@@ -30,7 +30,7 @@ To open the Management Console either right click on OptiKey itself (not the ico
 6. 放大目标（屏幕比例）：屏幕中间显示被放大区域的大小。放大源到放大目标的比例决定了放大的水平，例如，放大源的比例是10%，放大目标的比例是60%，放大水平就是x6。
 
 7. Conversation only mode: If checked OptiKey will start and remain in the 'Conversation Only' mode, which is a simplified keyboard set, designed when you only want to use OptiKey to type and speak words and sentences. Turn this setting off if you want to be able to move between 'Conversation' and keyboard/mouse simulation modes.
-7. 仅对话模式：若选中 OptiKey 启动并继续留在 ‘仅对话（Conversation Only）’ 模式，它是一个简化的键盘设置，这是用于只希望使用 OptiKey 来键入和朗读（speak）单词和句子。如果想在 ‘对话（Conversation）’ 和键盘/鼠标模拟模式中切换，则需关掉该设置。
+7. 仅对话模式：若选中 OptiKey 启动并继续留在 "仅对话（Conversation Only）" 模式，它是一个简化的键盘设置，这是用于只希望使用 OptiKey 来键入和朗读（speak）单词和句子。如果想在 "对话（Conversation）" 和键盘/鼠标模拟模式中切换，则需关掉该设置。
 
 8. Startup keyboard: Which keyboard would you like to be displayed when you first start OptiKey.
 8. 启动键盘：当第一次启动 OptiKey 时，所希望显示的键盘。
@@ -41,7 +41,7 @@ To open the Management Console either right click on OptiKey itself (not the ico
 10. Full dock thickness (as % of screen): When OptiKey is docked and full sized (expanded, as opposed to being in a collapsed dock state) this setting controls how much of the screen it fills.
 10. 全屏高度（指所占屏幕的百分比）：当停驻在 OptiKey 窗口，并将其全屏（扩大，不是指收缩到任务栏的状态），该设置控制它填满屏幕的比例。
 
-11. Collapsed dock thickness (as % of full dock thickness): When OptiKey is docked and collapsed (as opposed to being in a full sized, expanded dock state) this setting controls how much of the screen it fills, as a percentage of the full, expanded dock size. If the full dock thickness takes up 50% of the screen, and this setting is also 50%, then the collapsed dock will take up 25% of the screen.
+11.  Collapsed dock thickness (as % of full dock thickness): When OptiKey is docked and collapsed (as opposed to being in a full sized, expanded dock state) this setting controls how much of the screen it fills, as a percentage of the full, expanded dock size. If the full dock thickness takes up 50% of the screen, and this setting is also 50%, then the collapsed dock will take up 25% of the screen.
 11.收缩高度（占全屏高度的百分比）：当停驻在 OptiKey 窗口，并将其收缩（与之相反的是全屏，即扩大的状态），该设置控制它填满屏幕的比例，其比例是基于全屏扩大的尺寸来算的。如果全屏高度占屏幕的 50%，该设置也是 50%，那么收缩状态时高度将占据 25% 的屏幕大小。
 
 <a name="visuals-font">**Font**</a>
@@ -57,7 +57,7 @@ To open the Management Console either right click on OptiKey itself (not the ico
 14. 字体粗细：OptiKey 的全局字体粗细。例如细（Light）、正常（Normal）、加粗（Bold）等。有效值取决于所选的字体族。该设置对管理控制后台无效。
 
 15. Key text transformation: When a key is "current" (in other words a key has focus) some keys replace their symbol/image with text to explain the function of the key (e.g. the 'SPEAK' key). This setting allows you to change the casing of the text.
-15. 键文本替换：当一个键是 “当前的”（换句话说该键被注视），会有一些键用解释该键功能的文本来代替其原先的象征/图片（如“朗读（SPEAK）”）。该设置允许你修改这些文本内容的样子（译者注：可以设置文本为大写、小写或首字母大写）。
+15. 键文本替换：当一个键是 “当前的(current)”（换句话说该键被注视），会有一些键用解释该键功能的文本来代替其原先的象征/图片（如 “朗读（SPEAK）” ）。该设置允许你修改这些文本内容的样子（译者注：可以设置文本为大写、小写或首字母大写）。
 
 <a name="visuals-notifications">**Notifications**</a>
 <a name="visuals-notifications">**通知**</a>

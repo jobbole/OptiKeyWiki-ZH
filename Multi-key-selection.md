@@ -33,7 +33,7 @@ The process of capturing a word using fixation selection then works like this;
 
 1. Select the first letter of the word, e.g. the "h" if you want to type "hello". You have begun capturing the word (or phrase).
 
-1. 选中单词的首字母，比如你想输入“hello”的“h”。你已经开始录入这个单词（或者短语）。
+1. 选中单词的首字母，比如你想输入 “hello” 的 “h”。你已经开始录入这个单词（或者短语）。
 
     ![Selecting the first letter](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Typing_Hello_MultiKeyCapture_Starting.png)
 
@@ -60,7 +60,7 @@ Multikey selection learns which words you use frequently and will improve its su
 
 To type individual letters with multi-key selection enabled, just select the same key twice, without focusing on any other keys in between, e.g. to type "I" select the "I" key to start the word capture, then stay on the "I" key to select it again; this will stop the capture and output a single "I".
 
-在多键选择键开启情况下输入单个字母，只需选择相同的键两次，而不注视任何其他按键。 例如， 输入“I”，选择 “I” 键启动单词捕获，然后保持 “I” 键再次选择，这将停止捕获输入并输出单个“I”。
+在多键选择键开启情况下输入单个字母，只需选择相同的键两次，而不注视任何其他按键。 例如， 输入 “I”，选择 “I” 键启动单词捕获，然后保持 “I” 键再次选择，这将停止捕获输入并输出单个 “I”。
 
 ---
 

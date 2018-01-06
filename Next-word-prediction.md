@@ -16,7 +16,7 @@ OptiKey 支持 Presage 引擎，一个优秀且免费的第三方应用程序，
 
 3. If you are using a standard user account, you must run OptiKey as an administrator for presage to work. You may do this by right clicking the shortcut and then clicking 'Run As Administrator'. Alternatively to save the setting, right click the shortcut, click the button "Advanced Properties", and then check 'Run As Administrator'.
 
-3. 如果是用普通用户帐户登录系统的，则必须以管理员身份运行 OptiKey，以便 Presage 正常工作。 通过右键单击快捷方式，单击 “以管理员身份运行” 来启动 OptiKey，也可以先保存设置，然后右击快捷方式，选中 “高级属性” 按钮，然后选用 “以管理员身份运行” 启动 OptiKey。
+3. 如果是用普通用户帐户登录系统的，则必须以管理员身份运行 OptiKey，以便 Presage 正常工作。 通过右键单击快捷方式，单击 “以管理员身份运行(Run As Administrator)” 来启动 OptiKey，也可以先保存设置，然后右击快捷方式，选中 “高级属性(Advanced Properties)” 按钮，然后选用 “以管理员身份运行(Run As Administrator)” 启动 OptiKey。
 
 4. Start OptiKey and open the Management Studio. Select the  Words tab and then change the 'Suggestion Mode' to 'Presage'.
 

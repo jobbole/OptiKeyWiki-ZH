@@ -6,14 +6,14 @@ OptiKey can be made partially transparent so that you can see through to whateve
 
 OptiKey 允许半透明设置，因此你可以看到它底部的内容：
 
-1.  Select the 'Menu' key:
-2.  选取 “菜单（Menu）”：
+1. Select the 'Menu' key:
+2. 选取 “菜单（Menu）”：
 
 ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
-2.  Select either the 'Decrease Opacity' key or the 'Increase Opacity' key:
+2. Select either the 'Decrease Opacity' key or the 'Increase Opacity' key:
 
-2.  在 “增加透明度（Decrease Opacity）” 或者 “减少透明度（Increase Opacity）” 中选择：
+2. 在 “增加透明度（Decrease Opacity）” 或者 “减少透明度（Increase Opacity）” 中选择：
 
     ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 

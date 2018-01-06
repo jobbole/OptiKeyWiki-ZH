@@ -42,7 +42,7 @@ Eye tracker problems
 7. 如果可以的话，校准更多的点，比如校准 12 个点而不是 9 个点。
 
 8. If available, when calibrating try to match the background/foreground colours to the product you will end up using, e.g. this on-screen keyboard.
-8. 如果可以的话，校准的时候尽量将你最终要用的产品 （ 例如屏幕上的键盘 ） 的背景颜色和前景颜色调成一致
+8. 如果可以的话，校准的时候尽量将你最终要用的产品 （例如屏幕上的键盘） 的背景颜色和前景颜色调成一致
 
 9. An effective head rest can prevent head movement.
 9. 有效的头部靠枕可以防止头部移动。

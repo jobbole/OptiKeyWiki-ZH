@@ -4,7 +4,7 @@ Simulate a keyboard
 
 OptiKey is always simulating keystrokes (i.e. outputting what you type as if you are using a keyboard) , unless you are in the "Conversation" keyboard. Key-stroke simulation works like this:
 
-OptiKey 除了在“对话（Conversation）” 模式下有些特殊外，其原理就是模拟按键键入（比方说，键入什么就输出什么，和你用外置键盘时一样），键盘键入模拟的过程是这样的：
+OptiKey 除了在 “对话（Conversation）” 模式下有些特殊外，其原理就是模拟按键键入（比方说，键入什么就输出什么，和你用外置键盘时一样），键盘键入模拟的过程是这样的：
 
 1. Focus another application where you would like to begin typing, e.g. you want to type a letter into Microsoft Word, or an email into Gmail. You can focus the other application by using a physical mouse to select it and bring it to the foreground, or use OptiKey to simulate the mouse selection (see ['Simulating a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse)).
 
@@ -64,12 +64,12 @@ The 'Physical' keyboard contains the "other" keys from a standard keyboard, e.g.
 
 1. Select the 'Menu' key:
 
-2. 选取 “菜单（Menu）” 键：
+1. 选取 “菜单（Menu）” 键：
     ![Menu key](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Key_Menu_Up.png)
 
-3.  Select the 'Physical' key:
+2.  Select the 'Physical' key:
 
-4.  选取 “物理（Physical）” 键：
+2.  选取 “物理（Physical）” 键：
     ![Menu keyboard with numbers](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Keyboard_Menu_Numbered.png)
 
 The 'Physical' keyboards look like this:

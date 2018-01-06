@@ -18,7 +18,7 @@ When arranging other windows horizontally or vertically you may sometimes notice
 
 This is intentional and will be reverted automatically when you exit OptiKey. You can optionally maximise the Start screen again from within OptiKey from the Position menu by selecting the 'Arrange Maximised' key. See [Size & Position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&-position) for more.
 
-这个是特意设计成这样的，当退出 OptiKey 时将自动恢复成系统的原始状态。通过 "OptiKey 位置(Position)" 菜单下的 "调整到最大(Arrange Maximised)" 选项，可以将开始菜单调整到最大化窗口状态。
+这个是特意设计成这样的，当退出 OptiKey 时将自动恢复成系统的原始状态。通过 OptiKey "位置(Position)" 菜单下的 "调整到最大(Arrange Maximised)" 选项，可以将开始菜单调整到最大化窗口状态。
 
 更多的设计参看 [调整大小与位置](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&-position) 章节。
 

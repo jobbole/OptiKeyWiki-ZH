@@ -13,12 +13,12 @@ If you only want to use OptiKey to generate speech and communicate, then you can
 
 2. Select the 'Visuals' tab at the top.
 
-2. 选择顶部的 “视觉”（Visuals） 标签。
+2. 选择顶部的 “视觉（Visuals）” 标签。
 
 3. Tick the checkbox 'Conversation only mode':
   [Change the keyboard set from the Management Console](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
-3. 勾选 “仅对话模式”（Conversation only mode）：
+3. 勾选 “仅对话模式（Conversation only mode）” ：
   ![在管理控制台里修改键盘设置](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Management_Console_Visual_Numbered.png)
 
 4. Click the OK button at the bottom to save your changes:  
@@ -29,4 +29,6 @@ If you only want to use OptiKey to generate speech and communicate, then you can
 
 *See [Visual settings](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) for more on visual settings.*
 
-*查阅 [视图设置](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) 了解更多视图设置方面的信息*
+*查阅 [视觉设置](https://github.com/JuliusSweetland/OptiKey/wiki/Visual-settings) 了解更多视图设置方面的信息*
+
+

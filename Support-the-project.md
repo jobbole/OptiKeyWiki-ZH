@@ -19,6 +19,7 @@ I would like to say a big thank you to my patrons:
 特别感谢以下各位的资助：
 
 * Gerald Walden (for his patronage, as well as very kindly donating an OpenBCI Ultracortex kit)
+* Gerald Walden (提供 OpenBCI Ultracortex 套件)
 * Udo Heintz
 * Sean McLane
 * Nikolas
