@@ -53,7 +53,7 @@ OptiKey 所支持的眼动仪列表：
 
 ¹ Tobii 的眼动仪都需要下载 [Tobii EyeX Engine](http://developer.tobii.com/?wpdmdl=181)
 
-² PCEye Go 必须使用 1.1.5 以及之后的固件 - 详看 [使用 PCEye Go 眼动仪](https://github.com/JuliusSweetland/OptiKey/wiki/Using-the-Tobii-PCEye-Go-tracker)
+² PCEye Go 必须使用 1.1.5 以及之后的固件 - 详看 [使用 PCEye Go 眼动仪](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Using-the-Tobii-PCEye-Go-tracker)
 
 ³ EyeTech TM5 当前还不支持, 不过还是可以用它来作为 OptiKey 的光标控制使用，具体可以看以下视频: https://www.youtube.com/watch?v=1M7FVBuMcec
 
@@ -71,9 +71,9 @@ Adding full support for new eye trackers may be possible - if you have an unsupp
 
 OptiKey 虽然是为使用眼运仪所设计，但是实际不需要眼动仪也能够使用。
 
-如果 OptiKey 对于你的眼动仪并不完全支持的话，你可使用 [鼠标模拟](https://github.com/JuliusSweetland/OptiKey/wiki/Using-mouse-emulation)  的方式来控制 OptiKey。
+如果 OptiKey 对于你的眼动仪并不完全支持的话，你可使用 [鼠标模拟](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Using-mouse-emulation)  的方式来控制 OptiKey。
 
-当然也可以用标准的鼠标外设来使用 OptiKey 软件，或者 [使用摄像头](https://github.com/JuliusSweetland/OptiKey/wiki/Using-webcams) 来控制。
+当然也可以用标准的鼠标外设来使用 OptiKey 软件，或者 [使用摄像头](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Using-webcams) 来控制。
 
 对于需要新增支持的眼仪动仪，你可以通过向我发邮件的方式让我知道，我会尝试去添加支持，我的邮箱 [optikeyfeedback@gmail.com](mailto:optikeyfeedback@gmail.com)
 

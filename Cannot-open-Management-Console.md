@@ -14,7 +14,7 @@ If the console is still not opening then check that you do not have any modifier
 
 如果控制台没有打开，检查是否有其他的按键已经处理在按下状态，这些键会影响控制台激活热键输入，需先释放这些按键，比如 Shift, Ctrl, Win 或者 Alt 等。
 
-更多关于按键输入信息可以参考 “ [Simulate a physical keyboard （模拟外置键盘）](https://github.com/JuliusSweetland/OptiKey/wiki/Simulate-a-keyboard) ” 页面。
+更多关于按键输入信息可以参考 “ [模拟键盘](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Simulate-a-keyboard) ” 页面。
 
 ---
 
@@ -32,13 +32,13 @@ If you have OptiKey v2.2.3 (or later) you can right click anywhere ON OptiKey (N
 
 If you are using a Tobii tracker with EyeX software version 2.0.2.219 (or later) then the ALT key may change which application is focussed as the EyeX software has a built in window selection action ("Mouse Warp") which interferes with the Management Console shortcut (ALT+M). There are 2 possible work arounds;
 
-如果你使用了 Tobii 眼动仪的 EysX 软件 2.0.2.219(或更高版本) , ALT 键可能被 EysX 更改为窗口选择动作 ("Mouse Warp")，这个会导致控制台的快捷键(ALT+M)不生效，这个问题有两个解决方法：
+如果你使用了 Tobii 眼动仪的 EysX 软件 2.0.2.219(或更高版本) , ALT 键可能被 EysX 更改为窗口选择动作 (“Mouse Warp”)，这个会导致控制台的快捷键(ALT+M)不生效，这个问题有两个解决方法：
 
 1. Disable "Mouse Warp" and ensure the "Mouse warp on click" and "Mouse clone" both have their keys set to "No Key". You might have to reset the EyeX settings (from Settings -> About) and reboot your computer for these settings to correctly take effect.
 
 2. If you require "Mouse Warp" to be on then make sure you are looking at the keyboard, or at OptiKey when the ALT key is pressed as part of the ALT+M shortcut. This will make sure that OptiKey keeps focus and the shortcut works correctly.
 
-1. 禁用 "Mouse Warp" 功能，注意 "Mouse warp on click" 与 "Mouse clone" 这两个功能都要禁用，确认没有绑定任何快捷键。此时最好重置下 EyeX 的设置（在 Setting->About 菜单下)，并重启电脑以确保配置生效。
-2. 如果想要保留 "Mouse Warp" 设置，那么在输入 ALT+M 时需要确保目光是盯着软键盘，或都 OptiKey 软件当前处于激活状态。只要在 OptiKey 处理激活状态，ALT+M 的快捷键才能正常生效。
+1. 禁用 “Mouse Warp” 功能，注意 “Mouse warp on click” 与 “Mouse clone” 这两个功能都要禁用，确认没有绑定任何快捷键。此时最好重置下 EyeX 的设置（在 Setting->About 菜单下)，并重启电脑以确保配置生效。
+2. 如果想要保留 “Mouse Warp” 设置，那么在输入 ALT+M 时需要确保目光是盯着软键盘，或都 OptiKey 软件当前处于激活状态。只要在 OptiKey 处理激活状态，ALT+M 的快捷键才能正常生效。
 
 

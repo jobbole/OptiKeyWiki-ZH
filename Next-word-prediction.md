@@ -8,7 +8,7 @@ OptiKey 支持 Presage 引擎，一个优秀且免费的第三方应用程序，
 
 1. Install Presage version **0.9.2 32-bit** (specifically "presage-0.9.2~beta20150909-32bit" from [presage-0.9.2~beta20150909-32bit-setup.exe](https://sourceforge.net/projects/presage/files/presage/0.9.2~beta/win32/presage-0.9.2~beta20150909-32bit-setup.exe/download)). **PLEASE DO NOT CHANGE ANY OF THE DEFAULT INSTALLATION OPTIONS - Presage must be installed to the default location and Start menu location**
 
-1. 下载 Presage **0.9.2 32-bit** 版本（下载地址[presage-0.9.2~beta20150909-32bit-setup.exe](https://sourceforge.net/projects/presage/files/presage/0.9.2~beta/win32/presage-0.9.2~beta20150909-32bit-setup.exe/download))）。**注意:不要修改任何的安装选项 - Presage 必须安装在默认目录下，同时必在默认的 "开始" 菜单分类下**
+1. 下载 Presage **0.9.2 32-bit** 版本（下载地址[presage-0.9.2~beta20150909-32bit-setup.exe](https://sourceforge.net/projects/presage/files/presage/0.9.2~beta/win32/presage-0.9.2~beta20150909-32bit-setup.exe/download))）。**注意:不要修改任何的安装选项 - Presage 必须安装在默认目录下，同时必在默认的 “开始” 菜单分类下**
 
 2. Ensure Presage is running (by default it runs automatically and can be seen in the taskbar in the bottom right as "Presage WCF Service"). If Presage is not running then start it manually; on my machine you would run _C:\Program Files (x86)\presage\bin\presage_wcf_service_system_tray.exe_).
 
@@ -20,11 +20,11 @@ OptiKey 支持 Presage 引擎，一个优秀且免费的第三方应用程序，
 
 4. Start OptiKey and open the Management Studio. Select the  Words tab and then change the 'Suggestion Mode' to 'Presage'.
 
-4. 启动 OptiKey 后打开 "管理工具(Management Studio)"，选择 "单词签标(Words tab)"，然后将 "建议模式(Suggestion Mode)" 改为 "Presage"。
+4. 启动 OptiKey 后打开 “管理工具(Management Studio)"，选择 “单词签标(Words tab)"，然后将 “建议模式(Suggestion Mode)” 改为 “Presage"。
 
 5. For best performance we recommend that you then edit two of the default Presage settings. You can do this by manually editting the presage.xml setting file (on my machine this is located at _C:\Program Files (x86)\presage\etc\presage.xml_). Find the "<Selector>" section and change suggestions to 12 and repeat suggestions to yes, i.e.
 
-5. 修改 Presage 的两个默认配置，优化 Presage 性能。 打开 presage.xml 的设置文件（_C:\Program Files (x86)\presage\etc\presage.xml_），找到 “<Selector>” 把 "suggestions" 改为 12，把 "repeat suggestions" 改为 "yes"，即:
+5. 修改 Presage 的两个默认配置，优化 Presage 性能。 打开 presage.xml 的设置文件（_C:\Program Files (x86)\presage\etc\presage.xml_），找到 “<Selector>” 把 “suggestions” 改为 12，把 “repeat suggestions” 改为 “yes"，即:
 
 ```
     <Selector>

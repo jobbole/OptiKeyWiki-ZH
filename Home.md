@@ -13,7 +13,7 @@ OptiKey was written to challenge the outrageously expensive, unreliable and diff
 
 OptiKey 为的是挑战市面上超贵、不可靠、难用的 AAC（替代和辅助沟通）产品，因此 OptiKey 完全开源，永久免费。
 
-[![YouTube demo](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/OptiKey-YouTube.png)](https://www.youtube.com/watch?v=HLkyORh7vKk "OptiKey demo")
+[![YouTube demo](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/OptiKey-YouTube.png)](https://www.youtube.com/watch?v=HLkyORh7vKk)
 
 It works out of the box once you have your eye-tracking device installed and allows selections to be made using dwell selection, as well as physical buttons and assistive devices. If you do not have an eye tracking device you can use OptiKey with a mouse or your webcam.
 
@@ -35,10 +35,10 @@ OptiKey 可以取代鼠标，在屏幕上的任何位置精确地点击、滚动
 
 To communicate naturally with those around you select the 'Speak' key and OptiKey will convert what you have typed into speech...even if you find it difficult to select keys...
 
-若想要同身边的人自然地说话，选择 “Speak（朗读）” 按键，OptiKey 则会将输入的文字转化为语音。
+想要与你身边的人自然地说话，选择 “Speak（朗读）” 按键，OptiKey 会把你输入的文字转化为语音。
 
 ![Simplified conversation keyboard](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Simplified_Alpha_small.png)
 
 [**Click here to get started...**](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
 
-[从这里开始...](https://github.com/JuliusSweetland/OptiKey/wiki/Get-Started)
+[从这里开始...](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Get-Started)

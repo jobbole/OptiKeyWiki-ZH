@@ -14,13 +14,13 @@ When arranging other windows horizontally or vertically you may sometimes notice
 
 *The Start ("Metro") screen in Windows 8 (or a full screen Windows Store app) is being re-sized by the arrange horizontally/vertically key*
 
-*对 Windows 8 的 "开始" 菜单(或全屏模式下的应用商店) 需要通过水平或垂直排列键进行调整*
+*对 Windows 8 的 “开始” 菜单(或全屏模式下的应用商店) 需要通过水平或垂直排列键进行调整*
 
 This is intentional and will be reverted automatically when you exit OptiKey. You can optionally maximise the Start screen again from within OptiKey from the Position menu by selecting the 'Arrange Maximised' key. See [Size & Position](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&-position) for more.
 
-这个是特意设计成这样的，当退出 OptiKey 时将自动恢复成系统的原始状态。通过 OptiKey "位置(Position)" 菜单下的 "调整到最大(Arrange Maximised)" 选项，可以将开始菜单调整到最大化窗口状态。
+这个是特意设计成这样的，当退出 OptiKey 时将自动恢复成系统的原始状态。通过 OptiKey “位置(Position)” 菜单下的 “调整到最大(Arrange Maximised)” 选项，可以将开始菜单调整到最大化窗口状态。
 
-更多的设计参看 [调整大小与位置](https://github.com/JuliusSweetland/OptiKey/wiki/Size-&-position) 章节。
+更多的设计参看 [调整大小与位置](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Size-&-position) 章节。
 
 If the Start screen or Windows Store app is *NOT* being re-sized automatically when you exit OptiKey then you can repair it by changing your screen's resolution (and then changing it back again), or rebooting your computer/laptop/tablet.
 

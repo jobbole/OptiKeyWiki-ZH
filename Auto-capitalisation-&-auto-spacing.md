@@ -12,6 +12,6 @@ OptiKey can further speeds things up by automatically inserting spaces between w
 
 *Both of these features are turned ON by default, but can be toggled on or off from the 'Words' tab of the Management Console. See [Word settings](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings) for more.*
 
-*上述这两个功能是默认开启的，但都可以从管理控制台的 "单词(Word)" 标签中关闭。参见 [单词设置](https://github.com/JuliusSweetland/OptiKey/wiki/Word-settings)。*
+*上述这两个功能是默认开启的，但都可以从管理控制台的 “单词(Word)” 标签中关闭。参见 [单词设置](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/Word-settings)。*
 
 

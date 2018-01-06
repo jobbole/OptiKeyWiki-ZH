@@ -12,7 +12,7 @@ OptiKey 除了在 “对话（Conversation）” 模式下有些特殊外，其�
 
 2. Select keys in OptiKey to type letters and words as usual. As you make each key selection it will appear in both the scratchpad and your selected application. The BackOne and BackMany keys can be used to correct any mistakes (introduced in the ['Type your first word'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#type-your-first-word) section).
 
-2. 通过选中 OptiKey 中的按键来键入字母和单词。当你选取对应的按键，它会同时出现在提示框（scratchpad）和你选中的应用中。利用回删键（BackOne）和清空键（BackMany）可以删除错误（详情请参看 ['Type your first word'](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/Type%20your%20first%20word.md)）。
+2. 通过选中 OptiKey 中的按键来键入字母和单词。当你选取对应的按键，它会同时出现在提示框（scratchpad）和你选中的应用中。利用回删键（BackOne）和清空键（BackMany）可以删除错误（详情请参看 ['输入第一个单词'](https://github.com/jobbole/OptiKeyWiki-ZH/blob/master/Type%20your%20first%20word.md)）。
 
 ![Simulating a physical keyboard to type into Microsoft Word](https://github.com/JuliusSweetland/OptiKey/blob/gh-pages/images/Typing_Into_Word.png)
 

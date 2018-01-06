@@ -51,4 +51,4 @@ Eye tracker problems
 10. 坐在头部可以在眼动仪有效范围内的地方。对 GazeTracker 和 TheEyeTribe 来说，这是距离眼动仪或屏幕 45 厘米到 75 厘米之间的位置。
 
 11. Try your eye tracker at different refresh rates, for example TheEyeTribe tracker can be set to 30fps or 60fps, which is achieved by starting the EyeTribe server with the "-f=30" or "-f=60" switch, e.g. "C:\Program Files (x86)\EyeTribe\Server\EyeTribe.exe" -f=60
-11. 尝试调整眼动仪使用不同的刷新率。比如，TheEyeTribe 眼动仪可以通过用 " -f=30 " 或者 " -f=60 " 开关打开 EyeTribe 服务程序 （即 "C:\Program Files (x86)\EyeTribe\Server\EyeTribe.exe" -f=60）来设置为 30 fps 或 60 fps。
+11. 尝试调整眼动仪使用不同的刷新率。比如，TheEyeTribe 眼动仪可以通过用 “ -f=30 “ 或者 “ -f=60 “ 开关打开 EyeTribe 服务程序 （即 “C:\Program Files (x86)\EyeTribe\Server\EyeTribe.exe” -f=60）来设置为 30 fps 或 60 fps。

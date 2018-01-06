@@ -24,15 +24,15 @@ Grab the latest log file (the modified date on the file will be the most recent)
 
 2. A short description of what you were doing when the problem occurred.
 
-1. 简短地描述在问题发生时你正在做什么。
+2. 简短地描述在问题发生时你正在做什么。
 
 3. What is the problem? A crash? OptiKey did one thing and you were expecting something else?
 
-2. 出了什么问题？程序崩溃？OptiKey 做了什么你预想之外的事情？
+3. 出了什么问题？程序崩溃？OptiKey 做了什么你预想之外的事情？
 
 4. Anything else that you think is useful. Screenshots are amazing.
 
-3. 其他任何你觉得有用的东西。有截屏最棒了。
+4. 其他任何你觉得有用的东西。有截屏最棒了。
 
 I know it's a lot, but if you give me great info then it's much easier for me to find and fix the problem.
 

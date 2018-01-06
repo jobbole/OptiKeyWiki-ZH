@@ -36,7 +36,7 @@ If you have changed which device OptiKey is using for input (e.g. to an eye trac
 2. 修改 “来源（Source）”（在 “指向（Pointing）” 下）为 “鼠标位置（Mouse Position）”
 
 3. Leave the "Key selection source" and "Point selection source" set to "Fixation" for now.
-3. 将 “键选择来源（Key selection source）” 和 "指向选择来源（Point selection source）" 设置为 "固定（Fixation）"。
+3. 将 “键选择来源（Key selection source）” 和 “指向选择来源（Point selection source）” 设置为 “固定（Fixation）"。
 
 4. You may want to [slow OptiKey down a little.](Speed-up-&-slow-down.md)
 4. 此时可以适当 [调低 OptiKey 响应速度](Speed-up-&-slow-down.md)

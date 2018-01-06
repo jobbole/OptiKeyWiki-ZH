@@ -49,7 +49,7 @@ N.B. When your attention returns to an incomplete fixation there will be an init
 注意：当你的目光返回到一个未完成的定位上，还会有一个初始的 “锁定时间”（时间长度由 “锁定按键定位的时间（Key fixation time to lock-on (ms)' setting）” 来决定）。在锁定期间，这个定位可能会因为超时而被丢弃掉。
 
 8. Point selection source: The method used to select a point when simulating a physical mouse (see ['Simulate a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) for more. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is Fixations.
-8. 点选择的来源：当模拟一个物理鼠标时，这个方法被用来选择一个点（查看 “[模拟一个物理鼠标](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) ” 获取更多信息）。可能的方法有定位、键盘按键和鼠标按键。这个例子中来源就是定位方法。
+8. 点选择的来源：当模拟一个物理鼠标时，这个方法被用来选择一个点（查看 “[模拟鼠标](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/User-Guide#simulate-a-physical-mouse) ” 获取更多信息）。可能的方法有定位、键盘按键和鼠标按键。这个例子中来源就是定位方法。
 
 9. Point fixation time to lock-on (ms): Specific to 'Point selection source' of 'Fixations', this setting dictates how long you must direct your attention to a point (using whatever 'Source' you have selected, e.g. by looking at a point on the screen when using an eye tracking source) before a fixation begins. The lock-on period is designed so that a deliberate pause is required on an area of the screen before a fixation begins. Without a 'lock-on' period point selections will begin as soon as you direct your attention to any point on the screen, which makes point selection difficult.
 9. 锁定定位点的时间（毫秒）：在 “点选择来源（Point selection source）” 是 “定位（Fixations）” 时，这个设定表明在定位开始前，你要注视多长时间在一个点上（通过你选择的 “来源（Source）”，比如使用眼动仪时观看屏幕上一个点）。在开始定位屏幕上的一块区域之前，需要经过一个刻意设计的锁定延迟时间。如果没有一个锁点时间，只要你注视到屏幕上的任一点，点选择就开始了，这让点选择很难操作。
@@ -72,7 +72,7 @@ N.B. When your attention returns to an incomplete fixation there will be an init
 <a name="multi-key-selection">**多键选择**</a>
 
 14. Minimum dwell time on a key to include in capture (ms): When a multi-key selection (see ['Multi-key selection'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection) for more) is in progress this setting dictates the minimum amount of time that you must direct your attention to each key in order to register your interest in that key. Lower values allow you to complete the multi-key selection more quickly, but increase the chance that you will accidentally register interest in keys you are not actually interested in, resulting in less accurate matches. Higher values increase the amount of time required to complete each multi-key selection, but decrease the chance of registering keys accidentally.
-14. 录入按键的最小停留时间（毫秒） ：在一个多键选择（查看“[多键选择](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#multi-key-selection)”获取更多信息）进行时，这个设定表明你在要选择的按键上，你要注视的最小时间。数值越小你可以更快地完成多键选择，但是增加了出错的机会（你只是偶然看了这个按键，并不是真的要选），导致准确性不高。数值越高增加了完成多键选择的时间，但是降低了出错的机会（偶尔看了的按键）。
+14. 录入按键的最小停留时间（毫秒） ：在一个多键选择（查看“[多键选择](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/User-Guide#multi-key-selection)”获取更多信息）进行时，这个设定表明你在要选择的按键上，你要注视的最小时间。数值越小你可以更快地完成多键选择，但是增加了出错的机会（你只是偶然看了这个按键，并不是真的要选），导致准确性不高。数值越高增加了完成多键选择的时间，但是降低了出错的机会（偶尔看了的按键）。
 
 15. Capture timeout (ms): The maximum duration of a multi-key capture. If a multi-key capture exceeds this amount of time the capture will be discarded.
 15. 录入超时（毫秒）：一个多键录入的最长时间。如果一个多键录入超过这个时间，这次录入会被丢弃。
@@ -110,7 +110,7 @@ N.B. When your attention returns to an incomplete fixation there will be an init
 2. 鼠标按键的选择：这个鼠标按键被用来触发一次按键选择。
 
 3. Point selection source: The method used to select a point when simulating a physical mouse (see ['Simulate a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) for more. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Mouse Button.
-3. 点选择的来源：当模拟一个物理鼠标时（查看“模拟一个物理鼠标”获取更多信息），这个方法被用来选择一个点。可能的方法有定位、键盘按键和鼠标按键。这个例子中来源是一个鼠标的按键。
+3. 点选择的来源：当模拟一个物理鼠标时（查看“[模拟鼠标](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/User-Guide#simulate-a-physical-mouse) ”获取更多信息），这个方法被用来选择一个点。可能的方法有定位、键盘按键和鼠标按键。这个例子中来源是一个鼠标的按键。
 
 4. Selection mouse button: The Mouse Button used to trigger a point selection.
 4. 鼠标按键的选择：这个鼠标按键被用来触发一次点选择。
@@ -135,7 +135,7 @@ N.B. When your attention returns to an incomplete fixation there will be an init
 2. 键盘按键的选择：这个键盘按键被用来触发一次按键选择。
 
 3. Point selection source: The method used to select a point when simulating a physical mouse (see ['Simulate a physical mouse'](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) for more. Possible methods are fixations, keyboard keys and mouse buttons. In this example the source is a Keyboard Key.
-3. 点选择的来源：当模拟一个物理鼠标时（查看“[模拟物理鼠标](https://github.com/JuliusSweetland/OptiKey/wiki/User-Guide#simulate-a-physical-mouse) ”获取更多信息），这个方法被用来选择一个点。可能的方法有定位、键盘按键和鼠标按键。这个例子中来源是一个键盘的按键。
+3. 点选择的来源：当模拟一个物理鼠标时（查看“[模拟鼠标](https://github.com/jobbole/OptiKeyWiki-ZH/wiki/User-Guide#simulate-a-physical-mouse) ”获取更多信息），这个方法被用来选择一个点。可能的方法有定位、键盘按键和鼠标按键。这个例子中来源是一个键盘的按键。
 
 4. Selection keyboard key: The Keyboard Key used to trigger a point selection.
 4. 键盘按键的选择：这个键盘按键被用来触发一次点选择。
